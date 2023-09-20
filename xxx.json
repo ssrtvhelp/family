@@ -1006,7 +1006,7 @@
       "type": 3,
       "url": "Web"
     },
-    {
+ {
       "name": "M3U8",
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url="
@@ -1043,7 +1043,7 @@
         ]
       }
     },
-    {
+     {
       "name": "parwix稳定",
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url=",
@@ -1131,7 +1131,7 @@
         }
       }
     },
-    {
+   {
       "name": "tvznn",
       "type": 0,
       "url": "http://api.tvznn.cn/svip/?url="
@@ -1233,7 +1233,7 @@
         }
       }
     },
-    {
+  {
       "name": "网络",
       "type": 1,
       "url": "https://api.cygc.xyz/analysis/?url="
@@ -1393,18 +1393,7 @@
 				]
 			}
 		},
-		{
-			"name": "春风🥭",
-			"type": 1,
-			"url": "http://111.230.24.38:4433/qingfeng.php/?url=",
-			"ext": {
-				"flag": [
-					"qiqi-",
-					"mgtv",
-					"芒果"
-				]
-			}
-		},
+		
 		{
 			"name": "玉米🥭",
 			"type": 1,
