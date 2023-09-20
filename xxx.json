@@ -1473,7 +1473,9 @@
         "haiwaikan"
       ],
       "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:2.93[\\s\\S]*?#EXT-X-DISCONTINUITY"
+        "8.1748",
+        "10.0099",
+        "10.3333"
       ]
     },
     {
