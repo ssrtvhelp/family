@@ -325,22 +325,13 @@
       "key": "csp_wogg_cli",
       "name": "玩偶(cli)",
       "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
+      "api": "http://home.jundie.top:9568/spider/csp_Wogg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "5191ce3e41ee4f728bd295f8958baa05"
     },
-    {
-      "key": "csp_wogg_cli1",
-      "name": "玩偶9520(cli)",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "5191ce3e41ee4f728bd295f8958baa05"
-    },
+
     {
       "key": "乐猪cli",
       "name": "乐猪(cli)",
