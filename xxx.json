@@ -75,18 +75,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    
-    
-    {
-      "key": "mb",
-      "name": "夜猫秒播",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://mp4.ghlyys.com/api.php/app/"
-    },		
 
       {"key":"csp_appysv2_迷你库","name":"夜猫迷你2k","type":3,"playerType":2,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/"},  
      
