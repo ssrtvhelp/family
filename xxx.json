@@ -30,16 +30,6 @@
       "changeable": 1
     },	  
     
-  {
-      "key": "影視",
-      "name": "影視",
-      "type": 3,
-      "api": "csp_YingShi",
-      "searchable": 1,
-      "changeable": 1,
-        "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;d5a5fbed39e0451e8f201f8bf53f276c"
-    },
-    
     {
     "key":"zyys",
     "name":"夜猫自营",
@@ -48,7 +38,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "playUrl": "json:http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+    "playUrl": "json:http://home.jundie.top:9568/api/tvbox?jx=ysm&url=",
     "categories":["电影","连续剧","动漫","综艺"]
     },	
     
