@@ -21,8 +21,9 @@
       "changeable": 0,
       "ext": {
         "token": "影視天下第一",
-        "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
-      }
+        "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"      
+      },
+       "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;af5a163bf0ba899be92c5f44f3dde1d8"
     },
 
 {
