@@ -13,6 +13,17 @@
     },
 
 {
+        "key": "追忆",
+	"name": "追忆┃APP",
+	"type": 3,
+	"api": "http://kudian.51qwtt.xyz/uploads/itvbox/lib/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "http://smallmi.xiaohewanwan.love:63/zy.js"
+},
+
+{
       "key": "玩偶fm",
       "name": "玩偶cat",
       "type": 3,
