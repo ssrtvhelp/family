@@ -13,6 +13,19 @@
     },
 
 {
+      "key": "玩偶fm",
+      "name": "玩偶cat",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "影視天下第一",
+        "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"
+      }
+    },
+
+{
       "key": "快看",
       "name": "快看",
       "type": 3,
