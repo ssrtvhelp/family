@@ -24,20 +24,6 @@
 },
 
 {
-      "key": "玩偶fm",
-      "name": "玩偶cat",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "5191ce3e41ee4f728bd295f8958baa05",
-        "filter": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/wogg.json"      
-      },
-       "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-    },
-
-{
       "key": "快看",
       "name": "快看",
       "type": 3,
