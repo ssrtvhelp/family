@@ -239,43 +239,28 @@
     },
 
 {
-            "key": "M1",
-            "name": "M1|影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.wuliusudi.com/vodshow/{cateId}-{area}-------{catePg}---{year}/",
-                "分类": "电影$1#电视剧$2#综艺$3"
-            },
-            "jar": "http://xhww.fun:63/小米/2.txt"
-        },
-
-		{
-			"key": "酷影2",
-			"name": "泰泰┃APP",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-		},
+        "key": "酷影2",
+	"name": "泰泰┃APP",
+	"type": 3,
+	"api": "csp_AppYsV2",
+	"jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+},
 
 {
-			"key": "瑞丰",
-			"name": "🗯辣辣┃APP",
-			"type": 3,
-			"api": "csp_AppYs",
-			"jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://www.miniku.cc/xgapp.php/v2/"
-		},
+	"key": "瑞丰",
+	"name": "🗯辣辣┃APP",
+	"type": 3,
+	"api": "csp_AppYs",
+	"jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "http://www.miniku.cc/xgapp.php/v2/"
+},
 
     {
       "key": "七七",
