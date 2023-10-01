@@ -276,28 +276,6 @@
 			"filterable": 1,
 			"ext": "http://www.miniku.cc/xgapp.php/v2/"
 		},
-		{
-			"key": "蘑菇2",
-			"name": "️蘑菇┃APP",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://11111111.moguys.xyz/api.php/app/"
-		},
-		{
-			"key": "落落",
-			"name": "️落落┃APP",
-			"type": 3,
-			"api": "csp_AppYs",
-			"jar": "http://xhww.fun:63/小米/5.jar;md5;c570b052645834a1109b54421c1552f9",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://tv.hyjy666.top/icciu_api.php/v1.vod"
-		},
 
     {
       "key": "七七",
