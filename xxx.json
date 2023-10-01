@@ -13,15 +13,63 @@
     },
 
 {
-        "key": "追忆",
-	"name": "追忆┃APP",
-	"type": 3,
-	"api": "http://kudian.51qwtt.xyz/uploads/itvbox/lib/drpy2.min.js",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "http://smallmi.xiaohewanwan.love:63/zy.js"
-},
+            "key": "追忆2",
+            "name": "✌追忆┃App",
+            "type": 3,
+            "api": "csp_Appto",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE",
+            "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;698c36a5c29368495f8f552b9fe"
+        },
+        
+        {
+            "key": "橘子",
+            "name": "🍊橘子┃直连",
+            "type": 3,
+            "api": "csp_Appto",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ",
+            "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;698c36a5c29368495f8f552b9fe"
+        },
+        
+        {
+			"key": "csp_AppYsV2_YuMi",
+			"name": "玉米┃APP",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"playerType": 2,
+			"playUrl": "parse:玉米",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://ym.dytt996.com:3/api.php/app/",
+			"categories": ["电影", "电视剧", "综艺", "动漫", "国产剧"]
+		},
+		
+		{
+			"key": "索尼资源",
+			"name": "索尼┃资源",
+			"type": 1,
+			"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+			"categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "斯诺克", "影视解说"],
+			"searchable": 1,
+			"quickSearch": 1
+		},
+		
+		{
+			"key": "世界",
+			"name": "世界┃APP",
+			"type": 3,
+			"api": "http://kudian.51qwtt.xyz/uploads/itvbox/lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://smallmi.xiaohewanwan.love:63/sj.js"
+		},
 
 {
       "key": "快看",
