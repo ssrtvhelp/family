@@ -250,7 +250,7 @@
                 "分类url": "https://www.wuliusudi.com/vodshow/{cateId}-{area}-------{catePg}---{year}/",
                 "分类": "电影$1#电视剧$2#综艺$3"
             },
-            "jar": "http://xhww.fun:63/小米/2.txt;md5;c570b052645834a1109b54421c1552f9"
+            "jar": "http://xhww.fun:63/小米/2.txt"
         },
 
 		{
