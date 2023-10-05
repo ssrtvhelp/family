@@ -12,6 +12,15 @@
       "changeable": 1
     },
 
+    {
+      "key": "布雷",
+      "name": "布雷",
+      "type": 3,
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/bulei_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+
    {"key":"毛驴",
      "name":"🍓毛驴┃直连",
      "type":3,
