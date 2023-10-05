@@ -412,8 +412,6 @@
     {"key":"YQKAPP","name":"🎉一起┃App","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api-aws.11ty.top",
        "jar": "http://81.68.89.191:16888/json/fty.jar"
 },
-  
-{"key":"奇奇","name":"🍓奇奇┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
 
     {
       "key": "lezhu",
