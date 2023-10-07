@@ -29,34 +29,29 @@
      "quickSearch":1,
      "changeable":1,
      "ext":"https://www.maolvys.com/",
-     "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;698c36a5c29368495f8f552b9fe"
+     "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
      },
         
-     {
-        "key": "橘子",
-        "name": "🍊橘子┃直连",
-        "type": 3,
-        "api": "csp_Appto",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1,
-        "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ",
-        "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;698c36a5c29368495f8f552b9fe"
-     },
-        
-     {
-	"key": "csp_AppYsV2_YuMi",
-	"name": "玉米┃APP",
-	"type": 3,
-	"api": "csp_AppYsV2",
-	"playerType": 2,
-	"playUrl": "parse:玉米",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "http://ym.dytt996.com:3/api.php/app/",
-	"categories": ["电影", "电视剧", "综艺", "动漫", "国产剧"]
-     },
+        {
+            "key": "橘子",
+            "name": "🍊橘子┃直连",
+            "type": 3,
+            "api": "csp_Appto",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjEv",
+            "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+        },
+	  
+           {  "key":"布蕾影视",
+	      "name":"布蕾┃影视",
+	      "type":3,
+	      "api":"csp_Appto",
+	      "playerType":2,
+	      "ext":"VmFIZ%2BKCSW%2FfudthUQAhFThUBIjrjzM9FhQ9ltb5OkOZwS5t5apI%2Fl5aD1jfpTFMapmCeCVT1KbO2DB25TEQsNr7mxtNhIZHKijji10lqetyAK%2F4Ua5pO1zpAILY3VhMRNW0aH5OdWT24ufPDTR0fg%3D%3D|KMjRRRTJyY0JKald3RWFFOFB3RnlBZU1QUm1DaVRCcnR8aHR0cDovLzIyMi4xMzQuMC4xNzE6MTY4Ny9hcHB0by92MQ==", 
+	      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"},
+		
 		
      {
 	"key": "索尼资源",
