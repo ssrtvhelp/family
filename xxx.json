@@ -114,18 +114,6 @@
       "changeable": 1
     },	  
     
-    {
-    "key":"zyys",
-    "name":"夜猫自营",
-    "type":1,
-    "api":"https://ys.md214.cn/api.php/provide/vod/",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "playUrl": "json:http://home.jundie.top:9568/api/tvbox?jx=ysm&url=",
-    "categories":["电影","连续剧","动漫","综艺"]
-    },	
-    
     {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://wogg.888484.xyz:88/",
        "jar": "http://81.68.89.191:16888/json/fty.jar"
 },
