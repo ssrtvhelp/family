@@ -86,15 +86,16 @@
       },
 		
       {
-	"key": "世界",
-	"name": "世界┃APP",
-	"type": 3,
-	"api": "http://kudian.51qwtt.xyz/uploads/itvbox/lib/drpy2.min.js",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "http://smallmi.xiaohewanwan.love:63/sj.js"
-      },
+            "key": "世界",
+            "name": "世界┃聚合",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://xhww.fun:63/小米/ab.jar;md5;6f9b5a1696e0a8164210fbe6ac9f4ccf",
+            "ext": "http://yycms.77ev.cn/api.php/app/"
+        },
 
 {
       "key": "快看",
