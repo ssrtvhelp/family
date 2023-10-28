@@ -128,9 +128,9 @@
       "searchable": 1,
       "changeable": 1
     },	  
-    
-    {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://wogg.888484.xyz:88/",
-       "jar": "http://81.68.89.191:16888/json/fty.jar"
+	  
+ {"key":"csp_WoGG","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$弹",
+     "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
 },
     
     {
