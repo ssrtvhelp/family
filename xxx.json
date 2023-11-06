@@ -511,18 +511,7 @@
       "filterable": 0,
       "ext": "分类url:http://www.sharenice.net/{cateId}?page={catePg},分类:抖音,直接播放:1,嗅探词:play/?#?item#qianpailive#.flv#mp4"
     },
-    {
-      "key": "csp_WGG",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "http://home.jundie.top:666/json/token3.txt",
-      "jar": "http://81.68.89.191:16888/json/fty.jar"
-    },
+   
     {
       "key": "仓蓝",
       "name": "仓蓝┃APP",
@@ -534,15 +523,7 @@
       "filterable": 1,
       "ext": "http://video.301130.com/ruifenglb_api.php/v1.vod"
     },
-    {
-      "key": "SP2345",
-      "name": "2345",
-      "type": 3,
-      "api": "csp_SP2345",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "简影",
       "name": "简影",
@@ -589,15 +570,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "ikanbot",
-      "name": "IkanBot",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
     {
       "key": "快看",
       "name": "快看",
