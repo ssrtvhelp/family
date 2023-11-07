@@ -51,15 +51,6 @@
      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
      },
 
-{
-	"key": "csp_woggcli",
-	"name": "✨玩偶┃T4T4K",
-	"type": 4,
-	"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8821924306d944a3a633b9d6a9a8495d",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1
-},
 	  		
      {
 	"key": "布蕾",
@@ -303,16 +294,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_wogg_cli",
-      "name": "玩偶(cli)",
-      "type": 4,
-      "api": "http://home.jundie.top:9568/spider/csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "c9aedbc149584d21a6887028d119f464"
-    },
 
     {
       "key": "乐猪cli",
@@ -533,15 +514,7 @@
       "filterable": 1,
       "ext": "ewoidG9rZW4iOiIiLAoidXNlcm5hbWUiOiIyMTU2MTM5MDVAcXEuY29tIiwKInBhc3N3b3JkIjoianVuZGllNTIwIgp9"
     },
-    {
-      "key": "快看",
-      "name": "快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+ 
     {
       "key": "mingri",
       "name": "明日",
