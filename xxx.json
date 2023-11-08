@@ -32,6 +32,30 @@
 	"quickSearch": 1,
 	"filterable": 1
      },
+
+{
+	"key": "贱贱",
+	"name": "🎫贱贱┃p2p",
+	"type": 3,
+	"searchable": 1,
+	"quickSearch": 1,
+	"changeable": 1,
+	"playerType": "1",
+	"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+	"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
+},
+
+
+{
+	"key": "玉米",
+	"name": "🌽玉米┃采集",
+	"type": 0,
+	"api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
+	"playUrl": "json:http://luoye.shop/jiexi/米太硬.php?url=",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1
+		},
 		
 {"key":"csp_Kuaikan","name":"💡快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,
 "jar":"http://111.67.195.139/bd/jar/xyq.jar"
