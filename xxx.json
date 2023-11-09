@@ -34,6 +34,36 @@
      },
 
 {
+	"key": "觅视频",
+	"name": "🍯觅视┃App",
+	"type": 3,
+	"api": "csp_AppSK",
+	"searchable": 1,
+	"quickSearch": 1,
+	"changeable": 1,
+	"ext": "FbjPcVZY48PN/RIZ5UWFro5tctBJAZhIEz5OvLqy0VZGH5/R/mCR2kPI46ezGyKoem+Vym4tmTJ5Gio/CM0pPlNKXd+d2hTULzhB0SoYmLd4",
+	"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+},
+		
+	{
+	"key": "毛驴",
+	"name": "🎀毛驴┃App",
+	"type": 3,
+	"api": "csp_MLYS",
+	"searchable": 1,
+	"quickSearch": 1,
+	"changeable": 1,
+	"ext": "https://www.maolvys.com/",
+	"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+	},
+		
+{"key":"快影","name":"🦄️快影┃App","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
+{"key":"追忆","name":"🐿追忆┃App","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w==",
+"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+},
+	  
+
+{
 	"key": "贱贱",
 	"name": "🎫贱贱┃p2p",
 	"type": 3,
