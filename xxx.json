@@ -180,17 +180,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "爱看测试",
-      "name": "爱看App",
-      "type": 3,
-      "api": "csp_AppAkys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
-     
+      
   {
             "key": "AppYs_南瓜",
             "name": "南瓜蓝光",
@@ -201,28 +191,7 @@
             "quickSearch": 1,
             "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
    }, 
-   {
-            "key": "qiyue",
-            "name": "七月蓝光",
-            "type": 3,"playerType":2,
-            "api": "csp_XBPQ",
-             "searchable": 1,
-             "quickSearch": 1,
-             "filterable": 1,
-            "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E4%B8%83%E6%9C%88%E5%BD%B1%E8%A7%86.json",
-            "jar":"https://ghproxy.com/raw.githubusercontent.com/friendszn/maoyszlao/master/spider.jar"           
-        },   
-      {
-            "key": "hanju",
-            "name": "天天韩剧",
-            "type": 3,"playerType":2,
-            "api": "csp_XBPQ",
-             "searchable": 1,
-             "quickSearch": 1,
-             "filterable": 1,
-            "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E5%A4%A9%E5%A4%A9%E9%9F%A9%E5%89%A7.json",
-          "jar":"https://ghproxy.com/raw.githubusercontent.com/friendszn/maoyszlao/master/spider.jar" 
-        },    
+  
 
   {
       "key": "牛牛",
@@ -295,15 +264,7 @@
 
     
 {"key":"迷你库","name":"Ⓜ️迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
-    {
-      "key": "自建",
-      "name": "自建┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "http://app.alovo.cn/api.php/app/"
-    },
+ 
     {
       "key": "荐片",
       "name": "荐片(cli)",
@@ -313,33 +274,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "影探",
-      "name": "影探(cli)",
-      "type": 4,
-      "api": "http://home.jundie.top:9568/spider/csp_YT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "酷影",
-      "name": "酷影(cli)",
-      "type": 4,
-      "api": "http://home.jundie.top:9568/spider/cli_KY",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "官源",
-      "name": "官源(cli)",
-      "type": 4,
-      "api": "http://home.jundie.top:9568/spider/csp_Myad",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
     {
       "key": "kkys",
       "name": "看看(cli)",
@@ -395,25 +330,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "baibai",
-      "name": "白白(p)",
-      "type": 4,
-      "api": "http://home.jundie.top:9568/api/tvbox?key=byys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "shtv",
-      "name": "烧火(p)",
-      "type": 4,
-      "api": "http://home.jundie.top:9568/api/tvbox?key=shtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    
+     
     {"key":"zxzj","name":"📗在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/"},
     
     {"key":"csp_Ysgc","name":"🏭工场┃直连","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.ysgc1.cc/",
@@ -509,66 +426,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_Gaze",
-      "name": "注视",
-      "type": 3,
-      "api": "csp_Gaze",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "phys",
-      "name": "胖虎(p)",
-      "type": 4,
-      "api": "http://home.jundie.top:9568/api/tvbox?key=phys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "nmys",
-      "name": "农民(p)",
-      "type": 4,
-      "api": "http://home.jundie.top:9568/api/tvbox?key=nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_biubiu_短视频",
-      "name": "️短视频(XB)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "分类url:http://www.sharenice.net/{cateId}?page={catePg},分类:抖音,直接播放:1,嗅探词:play/?#?item#qianpailive#.flv#mp4"
-    },
-   
-    {
-      "key": "仓蓝",
-      "name": "仓蓝┃APP",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "http://xiaohewanwan.love/自用/XBPQ.jar;md5;fa7b9f1439ac080a7313a733f1c1d2d6",
-      "filterable": 1,
-      "ext": "http://video.301130.com/ruifenglb_api.php/v1.vod"
-    },
-
-    {
-      "key": "简影",
-      "name": "简影",
-      "type": 3,
-      "api": "csp_Jianying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "ewoidG9rZW4iOiIiLAoidXNlcm5hbWUiOiIyMTU2MTM5MDVAcXEuY29tIiwKInBhc3N3b3JkIjoianVuZGllNTIwIgp9"
-    },
  
     {
       "key": "mingri",
@@ -588,16 +445,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "运通",
-      "name": "云图",
-      "type": 3,
-      "api": "csp_Appyt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-   
+  
     {
       "key": "快看",
       "name": "快看",
@@ -666,16 +514,6 @@
         "日韩综艺",
         "欧美综艺"
       ]
-    },
-    {
-      "key": "88kanqiu",
-      "name": "88看球(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://home.jundie.top:81/catvod/TVBox/MaooXP/88kqXP.json"
     },
     {
       "key": "哔哩1",
