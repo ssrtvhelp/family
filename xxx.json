@@ -23,7 +23,50 @@
   {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;29978B04B8AEAEDE94F91B23B35E3405"},
     
     {"key":"嘿嘿","name":"💡嘿嘿┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="},
-    
+
+  {
+			"key": "sansan",
+			"name": "⭕️三三┃解析",
+			"type": 3,
+			"api": "csp_SP33",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0
+		},
+		{
+			"key": "赞赞",
+			"name": "➕赞赞┃切片",
+			"type": 3,
+			"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+			"ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0
+		},
+		{
+			"key": "feiyun",
+			"name": "☁️飞云┃切片",
+			"type": 3,
+			"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+			"ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0
+		},
+		
+		{
+			"key": "迷你",
+			"name": "🍯迷你┃APP",
+			"type": 3,
+			"api": "csp_AppYs",
+			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+			"searchable": 1,
+			"quickSearch": 1,
+			"ext": "http://www.miniku.cc/xgapp.php/v2/"
+		},
+
+
+	  
     {
 			"key": "Auete",
 			"name": "🏂奥特┃直连",
