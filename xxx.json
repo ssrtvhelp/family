@@ -12,6 +12,12 @@
       "changeable": 1
     },
 
+{"key":"玩偶表哥弹幕","name":"玩偶表哥弹幕|4K","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "jar": "https://fongmi.cachefly.net/okcaptain/okjar/main/ok1201.png","ext": {
+      "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+      "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
+      "danmu" : true
+    }},	  
+
     {"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"},
     
   {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;29978B04B8AEAEDE94F91B23B35E3405"},
