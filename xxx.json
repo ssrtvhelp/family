@@ -419,9 +419,6 @@
       "changeable": 0
     }, 
     
-{"key":"迷你库","name":"Ⓜ️迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
-    
-    
     {
       "key": "荐片",
       "name": "荐片(cli)",
