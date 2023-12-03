@@ -18,6 +18,21 @@
       "danmu" : true
     }},	  
 
+    {
+      "key": "玩偶",
+      "name": "玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar",
+      "ext": {
+        "token": "影視天下第一",
+        "filter": "https://fm.t4tv.hz.cz/json/wogg.json"
+      }
+    },
+	  
+
     {"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"},
     
   {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;29978B04B8AEAEDE94F91B23B35E3405"},
