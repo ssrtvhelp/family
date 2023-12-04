@@ -1074,98 +1074,8 @@
       }
     },
     
-{
-			"name": "黄黄🍌",
-			"type": 1,
-			"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=",
-			"ext": {
-				"flag": ["mgtv",
-					"qiyi",
-					"imgo",
-					"爱奇艺",
-					"奇艺",
-					"qq",
-					"腾讯",
-					"youku",
-					"优酷",
-					"pptv",
-					"PPTV",
-					"letv",
-					"乐视",
-					"leshi",
-					"bilibili",
-					"哔哩哔哩",
-					"哔哩",
-					"mgtv"
-				],
-				"header": {
-					"User-Agent": "okhttp/3.12.0"
-				}
-			}
 
-		},
-		{
-			"name": "稻香🌾",
-			"type": 1,
-			"url": "http://42.157.128.109:2323/CH/app/tv.php?url=",
-			"ext": {
-				"flag": [
-					"mgtv",
-					"qiyi",
-					"imgo",
-					"爱奇艺",
-					"奇艺",
-					"qq",
-					"腾讯",
-					"youku",
-					"优酷",
-					"pptv",
-					"PPTV",
-					"letv",
-					"乐视",
-					"leshi",
-					"bilibili",
-					"哔哩哔哩",
-					"哔哩",
-					"mgtv",
-					"芒果",
-					"芒果"
-				],
-				"header": {
-					"User-Agent": "okhttp/3.12.0"
-				}
-			}
-		},
-		{
-			"name": "左岸🌾",
-			"type": 1,
-			"url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
-			"ext": {
-				"flag": [
-					"爱奇艺",
-					"奇艺",
-					"qq",
-					"腾讯",
-					"youku",
-					"优酷",
-					"pptv",
-					"PPTV",
-					"letv",
-					"乐视",
-					"leshi",
-					"bilibili",
-					"哔哩哔哩",
-					"哔哩",
-					"mgtv",
-					"芒果",
-					"芒果"
-				],
-				"header": {
-					"User-Agent": "okhttp/3.12.0"
-				}
-			}
-		},
-		{
+    {
             "name": "米太硬",
             "type": 1,
             "url": "http://luoye.shop/jiexi/米太硬.php?url=",
@@ -1288,6 +1198,8 @@
 				}
 			}
 		},
+
+{"name":"巧技","type":1,"url":"https://www.qiaoji8.com/tvbox/wudi.php?url=","ext":{"flag":["tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},	  
 		
     {
       "name": "猫影(T4)",
