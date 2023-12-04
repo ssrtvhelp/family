@@ -40,6 +40,20 @@
     {"key":"嘿嘿","name":"💡嘿嘿┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="},
 
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://fanty.run.goorm.site/ext/nmys.json"},
+
+
+  {
+      "key": "短劇網",
+      "name": "短劇網",
+      "type": 3,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "api": "https://already.free.hr/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://already.free.hr/gaotianliuyun/gao/master/js/%E7%9F%AD%E5%89%A7%E7%BD%91.js"
+    },	  
+
 	  
   {
 			"key": "sansan",
