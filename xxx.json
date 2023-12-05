@@ -96,12 +96,8 @@
       "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1",
       "jar": "http://81.68.89.191:16888/fan/20231118-2220.fm.jar;md5;c7490687d67967fcf1afa46140aec05d"
       },
-
-  {"key":"巧技一","name":"巧技一┃App","type":4,"api":"http://t4.qiaoji8.com/vod?site=3a29eb005d0cd96c","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
-      
-  {"key":"巧技二","name":"巧技二┃App","type":4,"api":"http://t4.qiaoji8.com/vod?site=a8944f73f3f50ac7","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},	  
 	  
-		{
+	      {
 			"key": "feiyun",
 			"name": "☁️飞云┃切片",
 			"type": 3,
