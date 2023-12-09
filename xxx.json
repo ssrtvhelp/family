@@ -41,6 +41,9 @@
 
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://fanty.run.goorm.site/ext/nmys.json"},
 
+    {"key":"看看","name":"看看┃App","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0,
+   "jar":"https://fongmi.cachefly.net/ssrtvhelp/family/main/fix1209.jar"
+},	  
 
   {
       "key": "短劇網",
