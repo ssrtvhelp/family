@@ -12,12 +12,6 @@
       "changeable": 1
     },
 
-{"key":"玩偶表哥弹幕","name":"玩偶表哥弹幕|4K","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "jar": "https://fongmi.cachefly.net/okcaptain/okjar/main/ok1201.png","ext": {
-      "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
-      "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
-      "danmu" : true
-    }},	  
-
     {
       "key": "玩偶",
       "name": "玩偶",
