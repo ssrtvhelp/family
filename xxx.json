@@ -25,6 +25,17 @@
         "filter": "https://fm.t4tv.hz.cz/json/wogg.json"
       }
     },
+
+{
+	"key": "加速",
+	"name": "🐰加速┃APP",
+	"type": 3,
+	"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+	"api": "csp_AppYs",
+	"searchable": 1,
+	"quickSearch": 1,
+	"ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"
+},	  
 	  
 
     {"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"},
