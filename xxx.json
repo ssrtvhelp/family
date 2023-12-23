@@ -27,6 +27,18 @@
     },
 
 {
+	"key": "亮亮",
+	"name": "💡亮亮┃APP",
+	"type": 3,
+	"jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+	"api": "csp_AppYsV2",
+	"ext": "http://api.jialiangos.com:65533/api.php/app/",
+	"searchable": 1,
+	"quickSearch": 1,
+	"changeable": 0
+},	  
+
+{
 	"key": "加速",
 	"name": "🐰加速┃APP",
 	"type": 3,
@@ -1057,7 +1069,66 @@
         }
       }
     },
-    
+
+{
+	"name": "飞云🌾",
+	"type": 1,
+	"url": "https://daina.hk/api/?key=e1e84ecae847b6e4a1a27fd4611f45f5&url=",
+	"ext": {
+		"flag": [
+			"FYNB",
+			"mgtv",
+			"qiyi",
+			"imgo",
+			"爱奇艺",
+			"奇艺",
+			"qq",
+			"腾讯",
+			"youku",
+			"优酷",
+			"pptv",
+			"PPTV",
+			"letv",
+			"乐视",
+			"leshi",
+			"bilibili",
+			"哔哩哔哩",
+			"哔哩",
+			"mgtv",
+			"芒果"
+		],
+		"header": {
+			"User-Agent": "okhttp/4.1.0"
+		}
+	}
+},
+		{
+			"name": "亮亮🌾",
+			"type": 1,
+			"url": "https://m.jialiangos.com/jx/?url=",
+			"ext": {
+				"flag": [
+					"K_JL",
+					"JIALIANGCODE"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.1.0"
+				}
+			}
+		},
+		{
+			"name": "赞赞🌾",
+			"type": 1,
+			"url": "http://zn.ghlyys.com/znjsonapi.php.php?url=",
+			"ext": {
+				"flag": [
+					"JMZN"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.1.0"
+				}
+			}
+		},	  
 
     {
             "name": "米太硬",
