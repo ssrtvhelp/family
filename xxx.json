@@ -589,16 +589,16 @@
       "filterable": 1,
       "changeable": 1
     },
-    {
-      "key": "ddrk",
-      "name": "低端",
-      "type": 3,
-      "api": "csp_Ddys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+	  
+  {       
+	  "key": "csp_DiDuan",  
+	  "name": "低端",      
+	  "type": 3,      
+	  "api": "csp_Ddrk",     
+	  "searchable": 1,     
+	  "quickSearch": 1,       
+	  "changeable": 1    
+  },
   
     {
       "key": "SP2345",
