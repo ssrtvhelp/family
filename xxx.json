@@ -27,6 +27,16 @@
     },
 
 {
+      "key": "小胡",
+      "name": "👒资源┃小胡",
+      "searchable": 1,
+	  "quickSearch": 1,
+      "type": 1,
+      "playerType": 1,
+      "api": "http://c.小胡.icu/api.php/provide/vod/"
+    },	  
+
+{
 	"key": "亮亮",
 	"name": "💡亮亮┃APP",
 	"type": 3,
