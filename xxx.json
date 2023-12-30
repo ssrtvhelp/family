@@ -27,6 +27,15 @@
     },
 
 {
+	"key": "河马",
+	"name": "👀河马┃App",
+	"type": 3,
+	"api": "csp_Hmys",
+	"playerType": 1,
+	"ext": "https://m.sshbhz.com"
+},	  
+
+{
       "key": "小胡",
       "name": "👒资源┃小胡",
       "searchable": 1,
