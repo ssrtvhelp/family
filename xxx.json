@@ -26,6 +26,8 @@
       }
     },
 
+{"key": "ytvip","name": "🕵️┃探探┃影视(CJ)","type": 3,"api": "csp_AppYsV2","ext": "http://vvvipcms.lyyytv.cn/api.php/app/","searchable": 1,"changeable": 1},	  
+
 {
 	"key": "河马",
 	"name": "👀河马┃App",
