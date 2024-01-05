@@ -1093,162 +1093,172 @@
         }
       }
     },
-
-{
-	"name": "亮亮🌾",
-	"type": 1,
-	"url": "https://m.jialiangos.com/jx/?url=",
-	"ext": {
-	   "flag": [
-			"K_JL",
-			"JIALIANGCODE"
-		   ],
-	"header": {
-		"User-Agent": "okhttp/4.1.0"
-		}
-	}
-},
-{
-	"name": "赞赞🌾",
-	"type": 1,
-	"url": "https://vip.yybjs.top/home/api?type=ys&uid=2691400&key=bcmqsvwyzACFIPY368&url=",
-	"ext": {
-		"flag": [
-			"JMZN"
-			],
-	"header": {
-			"User-Agent": "okhttp/4.1.0"
-		}
-	}
-},	  
-
-{
-"name": "米太硬",
-"type": 1,
-"url": "http://luoye.shop/jiexi/米太硬.php?url=",
-"ext": {
-        "flag": [
-                "qq",
-                "腾讯",
-                "qiyi",
-                "爱奇艺",
-                "奇艺",
-                "youku",
-                "优酷",
-                "tucheng",
-                "sohu",
-                "搜狐",
-                "letv",
-                "乐视",
-                "mgtv",
-                "芒果",
-                "tnmb",
-                "seven",
-                "yzm",
-                "aliyun",
-                "RJuMao",
-                "bilibili",
-                "1905",
-                "xinvip",
-                "XAL",
-                "qiqi",
-                "XALS",
-                "YuMi-vip"
-        ]
-        }
-},
 	  
 {
-	"name": "YuMi-vip🥭",
-	"type": 0,
-	"url": "https://jx.xmflv.com/?url=",
-	"ext": {
-		"flag": [
-			"qiyi"
-			"爱奇艺",
-			"奇艺",
-			"qq",
-			"腾讯",
-			"youku",
-			"优酷",
-			"pptv",
-			"PPTV",
-			"letv",
-			"乐视",
-			"leshi",
-			"bilibili",
-			"哔哩哔哩",
-			"哔哩",
-			"mgtv",
-			"芒果",
-			"芒果"
-			],
-		"header": {
-			"User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36"
-			}
-		}
-	},
-	  
-	{
-	"name": "世界🥭",
-	"type": 1,
-	"url": "http://110.42.2.247:880/analysis/json/?uid=2500&my=dmnoxzADHKMOQSXZ01&url=",
-	"ext": {
-		"flag": [
-			"seven"
-			]
-		}
-	},
-		
-	{
-	"name": "玉米🥭",
-	"type": 1,
-	"url": "http://123.99.192.241:5000/api/jiexi/xg?Key=NLoNjn48GAF3UQdsP0&url=",
-	"ext": {
-		"flag": [
-			"YuMi-vip",
-			"YuMi-AL",
-			"芒果"
-			]
-		},
-		"header": {
-			"User-Agent": "okhttp/3.12.0"
-			}
-	},
-		
-{
-"name": "飞云🌾",
- "type": 1,
- "url": "http://122.228.84.103:7777/api/?key=XX84Rm4utDcfLT21tT&url=",
- "ext": {
- "flag": [
-         "FYNB",
-         "mgtv",
-        "qiyi",
-         "imgo",
-        "爱奇艺",
-         "奇艺",
-         "qq",
-        "腾讯",
-         "youku",
-         "优酷",
-        "pptv",
-        "PPTV",
-        "letv",
-        "乐视",
-        "leshi",
-        "bilibili",
-        "哔哩哔哩",
-        "哔哩",
-        "mgtv",
-        "芒果"
-        ],
-"header": {
-         "User-Agent": "okhttp/4.1.0"
-        }
-         }
-},
+            "name": "稻香🌾",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "flag": [
+                    "mgtv",
+                    "qiyi",
+                    "imgo",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "芒果"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/3.12.0"
+                }
+            }
+        },
+        {
+            "name": "飞云🌾",
+            "type": 1,
+            "url": "http://122.228.84.103:7777/api/?key=XX84Rm4utDcfLT21tT&url=",
+            "ext": {
+                "flag": [
+                    "FYNB",
+                    "mgtv",
+                    "qiyi",
+                    "imgo",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "亮亮🌾",
+            "type": 1,
+            "url": "https://m.jialiangos.com/jx/?url=",
+            "ext": {
+                "flag": [
+                    "K_JL",
+                    "JIALIANGCODE"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "赞赞🌾",
+            "type": 1,
+            "url": "https://vip.yybjs.top/home/api?type=ys&uid=2691400&key=bcmqsvwyzACFIPY368&url=",
+            "ext": {
+                "flag": [
+                    "JMZN"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "左岸🌾",
+            "type": 1,
+            "url": "http://122.228.84.103:5829/jx/?url=",
+            "ext": {
+                "flag": [
+                    "seven",
+                    "FYNB"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "米饭🌾",
+            "type": 1,
+            "url": "https://api.json.icu/api/?key=b1f3b1a9e1c0a42ae969db10bd315a95&url=",
+            "ext": {
+                "flag": [
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "芒果"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "YuMi-vip🥭",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "flag": [
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "芒果"
+                ],
+                "header": {
+                    "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36"
+                }
+            }
+	},	  
 
+	 
 {"name":"巧技","type":1,"url":"https://www.qiaoji8.com/tvbox/wudi.php?url=","ext":{"flag":["tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},	  
 		
     {
