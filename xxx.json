@@ -121,16 +121,17 @@
 	"changeable": 0
   },
 	  
-  {
-	"key": "赞赞",
-	"name": "➕赞赞┃切片",
-	"type": 3,
-	"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-	"ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
-	"searchable": 1,
-	"quickSearch": 1,
-	"changeable": 0
-   },
+{
+"key": "赞赞",
+"name": "➕赞赞┃切片",
+"type": 3,
+"jar": "http://8.140.244.154:1315/down/9zLyLbbFMtzx.jpg?fname=/c.jpg&down=true;md5;bb155c3f0133bbce4756ad52003f5968",
+"api": "csp_AppYsV2",
+"ext": "http://111.230.51.151:9696//api.php/app/",
+"searchable": 1,
+"quickSearch": 1,
+"changeable": 0
+},
 	  
    {
       "key": "baibai",
