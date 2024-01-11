@@ -32,15 +32,8 @@
 
 {"key": "ytvip","name": "🕵️┃探探┃影视(CJ)","type": 3,"api": "csp_AppYsV2","ext": "http://wvvipcms.lyyytv.cn/api.php/app/","searchable": 1,"changeable": 1},	  
 
-{
-	"key": "河马",
-	"name": "👀河马┃App",
-	"type": 3,
-	"api": "csp_Hmys",
-	"playerType": 1,
-	"ext": "https://m.sshbhz.com"
-},	  
-
+{"key":"河马","name":"👀河马┃App","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn","jar":"https://agit.ai/kvymin/TV/raw/branch/master/jar/Pandora.jar"},  
+	  
 {
       "key": "小胡",
       "name": "👒资源┃小胡",
@@ -65,17 +58,16 @@
 
    {"key": "439","name": "439","type": 1,"api": "https://49zyw.com/api.php/provide/vod/","categories": ["国产剧","短剧","欧美剧","香港剧","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","奇幻片","灾难片","悬疑片","其他片","韩国剧","台湾剧","泰国剧","日剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日本动漫","欧美动漫","海外动漫","电影解说","体育赛事","海外剧","纪录片"]},	  
 
-{
-	"key": "加速",
-	"name": "🐰加速┃APP",
-	"type": 3,
-	"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-	"api": "csp_AppYs",
-	"searchable": 1,
-	"quickSearch": 1,
-	"ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"
-},
-
+     {
+            "key": "加速",
+            "name": "🐰加速┃APP",
+            "type": 3,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "http://122.228.84.103:6117/api.php/app/"
+        },
 {
 	"key": "南坊",
 	"name": "☀南坊┃App",
@@ -240,27 +232,10 @@
 				"线路标题": "<span>&&</small>",
 				//"搜索标题": "class='movie_name'>&&</a>",
 				//"搜索链接": "href='&&'",
-				//"搜索图片": "http://xhww.fun:63/ss.jpg",
-				"导演": "导演：&&</div>",
-				"主演": "主演：&&</div>",
-				"简介": "<p>&&</p>"
-			}
-		},
-    
-	
-		{
-			"key": "达人",
-			"name": "✈️达人┃聚合",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0,
-			"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-			"ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
-		},
-	
+				//"搜索图片": "http://xhww.fun:63/ss.jpg",	
+	                       }
+		},		
+				
 	{
 			"key": "嘿嘿2",
 			"name": "📰嘿嘿┃影视",
