@@ -13,6 +13,17 @@
     },
 
     {
+            "key": "在线之家",
+            "name": "🕸 在线 ",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.zxzjhd.com/"
+        },           	  
+
+    {
       "key": "玩偶",
       "name": "玩偶",
       "type": 3,
