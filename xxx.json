@@ -83,7 +83,7 @@
 	"type": 3,
 	"jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 	"api": "csp_AppYsV2",
-	"ext": "http://api.jialiangos.com:65533/api.php/app/",
+	"ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
 	"searchable": 1,
 	"quickSearch": 1,
 	"changeable": 0
