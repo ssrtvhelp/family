@@ -1055,7 +1055,7 @@
         {
             "name": "飞云🌾",
             "type": 1,
-            "url": "http://122.228.84.103:7777/api/?key=CmVoteP0qwx4wZiK5G&url=",
+            "url": "http://122.228.84.103:7777/api/?key=EauMlPIBC3spoYGaOB&url=",
             "ext": {
                 "flag": [
                     "FYNB",
@@ -1116,10 +1116,11 @@
         {
             "name": "赞赞🌾",
             "type": 1,
-            "url": "https://vip.yybjs.top/home/api?type=ys&uid=2691400&key=bcmqsvwyzACFIPY368&url=",
+            "url": "http://121.62.61.51:6888/api/?key=qy9VEMeeqwl3nI4gvA&url=",
             "ext": {
                 "flag": [
-                    "JMZN"
+                    "JMZN",
+		    "NBY"
                 ],
                 "header": {
                     "User-Agent": "okhttp/4.1.0"
@@ -1137,6 +1138,36 @@
                 ],
                 "header": {
                     "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+
+  {
+            "name": "生饭🌾",
+            "type": 0,
+            "url": "https://jx.yangtu.top/?url=",
+            "ext": {
+                "flag": [
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "芒果"
+                ],
+                "header": {
+                    "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
                 }
             }
         },
