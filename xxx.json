@@ -11,6 +11,16 @@
             "quickSearch": 0,
             "filterable": 0
         },  
+
+{
+      "key": "Yingtantv",
+      "name": "💯影探┃TV┃App",
+      "type": 3,
+      "api": "csp_Yingtantv",
+      "searchable": 1,
+      "changeable": 0,
+      "jar":"https://already.free.hr/ssrtvhelp/family/main/ytzd.jar"
+    },        	    
         
 {
       "key": "安博",
