@@ -11,8 +11,26 @@
             "quickSearch": 0,
             "filterable": 0
         },  
-
-{"key":"布蕾","name":"⚡┃布蕾┃影视","type":3,"api":"csp_Lvdou","playerType":1,"ext":{"server":"http://38.12.25.109:158/api.php/app/","mackey":"weZtRbfJDgzyvHiG|YLdoqhUccdDmEPQU","parsekey":"mupfinBA986icmAZ|eV7YDmhgzThSiR1s","parseurl":"https://maya.x3322.net/api/index?parsesId=5&parsesUrl="}},	    
+	    
+   {
+      "key": "Buleitv",
+      "name": "💯布蕾┃TV┃App",
+      "type": 3,
+      "api": "csp_Buleitv",
+      "searchable": 1,
+      "changeable": 0,
+      "jar":"https://already.free.hr/ssrtvhelp/family/main/zyytbl.jar"
+    },
+    
+      {
+      "key": "Zhuiyitv",
+      "name": "💯追忆┃TV┃App",
+      "type": 3,
+      "api": "csp_Zhuiyitv",
+      "searchable": 1,
+      "changeable": 0,
+      "jar":"https://already.free.hr/ssrtvhelp/family/main/zyytbl.jar"
+    },
 
 {
       "key": "Yingtantv",
@@ -21,7 +39,7 @@
       "api": "csp_Yingtantv",
       "searchable": 1,
       "changeable": 0,
-      "jar":"https://already.free.hr/ssrtvhelp/family/main/ytzd.jar"
+      "jar":"https://already.free.hr/ssrtvhelp/family/main/zyytbl.jar"
     },        	    
         
 {
