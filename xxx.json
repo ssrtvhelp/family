@@ -53,7 +53,17 @@
 				"纪录片",
 				"经典片"
 			]
-		},       
+		},   
+
+{
+      "key": "Fangniu4k",
+      "name": "🇨🇳放牛┃TV┃App",
+      "type": 3,
+      "api": "csp_Fangniu4k",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "https://already.free.hr/ssrtvhelp/family/main/fangniu.jar"
+    },	    
         
         {
       "key": "宇宙",
