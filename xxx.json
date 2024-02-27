@@ -119,20 +119,6 @@
         },
         
         {
-            "key": "气球",
-            "name": "🎈气球┃左岸",
-            "type": 1,
-            "api": "https://cj.wanbu.cc/api.php/provide/vod/",
-            "playUrl": "https://cj.wanbu.cc/jmza.php?url=",
-            "categories": [
-                "电影",
-                "电视剧",
-                "动漫",
-                "综艺"
-            ]
-        },
-        
-        {
             "key": "DiDuan",
             "name": "⏮️低端┃外剧",
             "type": 3,
