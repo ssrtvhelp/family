@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708249660012/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -10,9 +10,70 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
-        },   
+        },        
+        
+{
+			"key": "haiwaikan",
+			"name": "海外看",
+			"type": 1,
+			"api": "https://haiwaikan.com/api.php/provide/vod",
+			"searchable": 1,
+			"changeable": 1,
+			"categories": [
+				"日本动漫",
+				"国产动漫",
+				"欧美动漫",
+				"国产剧",
+				"韩剧",
+				"日剧",
+				"台剧",
+				"泰剧",
+				"港剧",
+				"欧美剧",
+				"动画电影",
+				"韩国综艺",
+				"国产综艺",
+				"日本综艺",
+				"欧美综艺",
+				"冒险片",
+				"剧情片",
+				"动作片",
+				"同性片",
+				"喜剧片",
+				"奇幻片",
+				"恐怖片",
+				"悬疑片",
+				"惊悚片",
+				"战争片",
+				"歌舞片",
+				"灾难片",
+				"爱情片",
+				"犯罪片",
+				"科幻片",
+				"纪录片",
+				"经典片"
+			]
+		},       
+        
+        {
+      "key": "宇宙",
+      "name": "👿宇宙4K自营",
+      "type": 3,
+      "api": "csp_LvDou",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": 1,
+      "ext": {
+        "server": "http://ds1.yuzhoukeji.top/api.php/app/",
+        "mackey": "btC11NMbhWho2LsL|vZfPqkHE71Epi167",
+        "danmu": true
+      },
+       "jar": "https://already.free.hr/ssrtvhelp/family/main/pg.jar"
+    },
 
-    {
+        {
             "key": "K影",
             "name": "K影院┃App",
             "type": 1,
@@ -21,16 +82,6 @@
             "searchable": 1,
             "quickSearch": 1
         },
-
-   {
-            "key": "Yingtantv",
-            "name": "💯影探┃TV┃App",
-            "type": 3,
-            "api": "csp_Yingtantv",
-            "searchable": 1,
-            "changeable": 0,
-            "jar": "https://already.free.hr/ssrtvhelp/family/main/pg.jar"
-        },	    
 
 {
       "key":"美剧迷",
@@ -44,7 +95,19 @@
       "timeout":30,
       "ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$https://www.meijumi.net/$$$null$$$1",
         "jar": "https://already.free.hr/ssrtvhelp/family/main/pg.jar"
-},  	    
+},         
+        
+        {
+            "key": "T4-安博",
+            "name": "安博(T4)",
+            "type": 4,
+            "api": "https://tang.serv00.net/power/ub1818",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            //"ext": true
+        },        
         
 {
       "key": "安博",
@@ -54,7 +117,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0
+      "changeable": 0,
+      //"ext": true
     },
         
         {
@@ -62,6 +126,31 @@
             "name": "💡酷看┃App",
             "type": 3,
             "api": "csp_Kkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        
+        {
+            "key": "气球",
+            "name": "🎈气球┃左岸",
+            "type": 1,
+            "api": "https://cj.wanbu.cc/api.php/provide/vod/",
+            "playUrl": "https://cj.wanbu.cc/jmza.php?url=",
+            "categories": [
+                "电影",
+                "电视剧",
+                "动漫",
+                "综艺"
+            ]
+        },
+        
+        {
+            "key": "DiDuan",
+            "name": "⏮️低端┃外剧",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -108,23 +197,11 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0
-		},
-        
-        {
-            "key": "率率",
-            "name": "🌸率率┃App",
-            "type": 3,
-            "api": "csp_AppLd",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjSZ1FapovNr0QF4QvEpcoxb5gWXdQJE2MXqLG6ykBXQM2e7TnDygTd5bXnCjGuLD/PknUhkn0yQ2NzCLl5XQ4NDrrhhBSVYlhBvnhU8N1VerP8K2NTNgP+NxESztO6"
-	},
+		},   
     
      {
             "key": "天1天",
-            "name": "2天天┃App",
+            "name": "😎天天┃App",
             "type": 3,
             "api": "csp_TTian",
             "playerType": 2,
@@ -141,55 +218,6 @@
             "ext": "http://op.ysdqjs.cn",
             "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/ssrtvhelp/family/main/fix24117.jar"
         },   
-    
-    {
-            "key": "巧技一",
-            "name": "优特QJ1┃App",
-            "type": 3,
-            "api": "csp_qiao2",
-            "playerType": 2,
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1",
-            "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/ssrtvhelp/family/main/fix24117.jar"
-        },
-        {
-            "key": "巧技二",
-            "name": "ORG二┃App",
-            "type": 3,
-            "api": "csp_qiao2",
-            "playerType": 2,
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2",
-            "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/ssrtvhelp/family/main/fix24117.jar"
-        },
-       {
-            "key": "巧技三",
-            "name": "侠三┃App",
-            "type": 3,
-            "api": "csp_qiao2",
-            "playerType": 2,
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3",
-            "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/ssrtvhelp/family/main/fix24117.jar"
-        },
-        {
-            "key": "巧技四",
-            "name": "刻四┃App",
-            "type": 3,
-            "api": "csp_qiao2",
-            "playerType": 2,
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4",
-            "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/ssrtvhelp/family/main/fix24117.jar"
-        },
-        {
-            "key": "巧技五",
-            "name": "行五┃App",
-            "type": 3,
-            "api": "csp_qiao2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": 2,
-            "filterable": 1,
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5",
-            "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/ssrtvhelp/family/main/fix24117.jar"
-        },
         
           {
       "key": "豆瓣",
@@ -213,18 +241,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "http://119.91.192.228/hzhst/jarjar/cs888.jar"
-    },
-      
-    {
-      "key": "csp_tang",
-      "name": "唐唐",
-      "type": 4,
-      "api": "http://phpt4.fongmi.leuse.top/site/tang",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "true"
     },
   
         {
@@ -264,17 +280,6 @@
         },
 
 {"key":"星奇","name":"💥星奇┃App","type":3,"api":"csp_AppMao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"},
-
-{
-            "key": "南坊",
-            "name": "☀南坊┃App",
-            "type": 3,
-            "api": "csp_Appto",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJGU3QP9+aykEFcCJTRtWyLyATI/Kr0RWOrdmmE82op1Sp3CSI5WoN6fFdLHN+LxA+CamUTj3pr0P4lAumpPCpzMgL5ZXIuytPprjLXKt5kbYcwtkFA9gT8BgdcY6mr40MUeodBOmAdLR2v8uYbpugEDOo5fQ=="
-        },
 		
         {
             "key": "sansan",
@@ -304,19 +309,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },    
-  
-        {
-            "key": "亮亮",
-            "name": "💡亮亮┃APP",
-            "type": 3,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-            "api": "csp_AppYsV2",
-            "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
+    },         
          
         {
             "key": "南瓜",
@@ -346,17 +339,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "https://www.hdmyy.com/"
-        },
-        {
-            "key": "南坊",
-            "name": "☀南坊┃App",
-            "type": 3,
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
-        },
+        },  
   
         {
             "key": "saohuo",
@@ -773,6 +756,20 @@
         ]
       }
     },
+    
+    {
+            "name": "蚂蚁🌾",
+            "type": 1,
+            "url": "http://y1.ys.33love.cn:8665/lunxun/index.php?url=",
+            "ext": {
+                "flag": [
+                    "NBY"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
 
     {
       "name": "小米🌾",
@@ -879,6 +876,21 @@
         ]
       }
     },
+    
+    {
+      "name": "NBY3",
+      "type": 1,
+      "url": "http://103.233.255.142:1133/?url=",
+      "ext": {
+        "flag": [
+          "NBY"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
+        }
+      }
+    },
+    
         {
             "name": "稻香🌾",
             "type": 0,
@@ -1156,82 +1168,89 @@
             ]
         }
     ],
-    "rules": [
+  "rules": [
         {
-            "name": "proxy",
-            "hosts": [
-                "raw.githubusercontent.com",
-                "googlevideo.com",
-                "cdn.v82u1l.com",
-                "cdn.iz8qkg.com",
-                "cdn.kin6c1.com",
-                "c.biggggg.com",
-                "c.olddddd.com",
-                "haiwaikan.com",
-                "www.histar.tv",
-                "youtube.com",
-                "uhibo.com",
-                ".*boku.*",
-                ".*nivod.*",
-                ".*ulivetv.*"
-            ]
-        },
-        {
-            "name": "海外看",
+            "name": "hwk",
             "hosts": [
                 "haiwaikan"
             ],
             "regex": [
-                "8.1748",
                 "10.0099",
-                "10.3333"
+                "10.3333",
+                "16.0599",
+                "8.1748",
+                "12.33",
+                "10.85"
             ]
         },
         {
-            "name": "暴风廣告",
+            "name": "yqk",
             "hosts": [
-                "bfzy",
-                "s5.bfzycdn"
+                "yqk88"
+            ],
+            "regex": [
+                "18.4",
+                "15.1666"
+            ]
+        },
+        {
+            "name": "sn",
+            "hosts": [
+                "suonizy"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
+                "15.1666",
+                "15.2666",
+                "16.3333",
+                "15.266667"
+            ]
+        },
+        {
+            "name": "bf",
+            "hosts": [
+                "bfzy"
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
-            "name": "星星",
+            "name": "xx",
             "hosts": [
                 "aws.ulivetv.net"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
-            "name": "量子廣告",
+            "name": "lz",
             "hosts": [
-                "vip.lz",
-                "hd.lz",
-                "v.cdnlz"
+                "lz"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "18.5333",
+                "19.52"
             ]
         },
         {
-            "name": "非凡廣告",
+            "name": "ff",
             "hosts": [
                 "vip.ffzy",
-                "hd.ffzy"
+                "hd.ffzy",
+                "ffzy"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "25.0666",
+                "25.08",
+                "20.52",
+                "25.1",
+                "25.1999"
             ]
         },
         {
-            "name": "火山嗅探",
+            "name": "hs",
             "hosts": [
                 "huoshan.com"
             ],
@@ -1240,12 +1259,32 @@
             ]
         },
         {
-            "name": "抖音嗅探",
+            "name": "dy",
             "hosts": [
                 "douyin.com"
             ],
             "regex": [
                 "is_play_url="
+            ]
+        },
+        {
+            "name": "nm",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "cl",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "最 新",
+                "直 播",
+                "更 新"
             ]
         }
     ],
