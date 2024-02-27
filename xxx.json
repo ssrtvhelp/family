@@ -96,18 +96,7 @@
       "ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$https://www.meijumi.net/$$$null$$$1",
         "jar": "https://already.free.hr/ssrtvhelp/family/main/pg.jar"
 },         
-        
-        {
-            "key": "T4-安博",
-            "name": "安博(T4)",
-            "type": 4,
-            "api": "https://tang.serv00.net/power/ub1818",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },        
-        
+
 {
       "key": "安博",
       "name": "👑安博",
