@@ -12,6 +12,18 @@
             "filterable": 0
         },   
 
+{
+      "key": "csp_tang",
+      "name": "唐唐",
+      "type": 4,
+      "api": "http://phpt4.fongmi.leuse.top/site/tang?secret=3b3bf75f255d76f51432a46997dfb25d",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "true"
+    },	    
+
     {
       "key": "Yinyuetai",
       "name": "🛰音悦台┃音乐┃MV",
