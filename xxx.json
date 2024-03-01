@@ -10,7 +10,58 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
-        },   
+        }, 
+
+      {
+            "key": "Lib",
+            "name": "Lib┃直连",
+            "type": 3,
+            "api": "csp_Lib",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.libvio.pw/static/js/playerconfig.js",
+             "jar": "https://already.free.hr/ssrtvhelp/family/main/fix24225.jar"
+        },
+        
+        {
+            "key": "热播",
+            "name": "热播┃App",
+            "type": 3,
+            "api": "csp_TTian",
+            "playerType": 2,
+            "ext": "http://v.rbotv.cn",
+            "jar": "https://already.free.hr/ssrtvhelp/family/main/fix24225.jar"
+        },
+        
+        {
+            "key": "追剧",
+            "name": "追剧┃App",
+            "type": 3,
+            "api": "csp_TTian",
+            "playerType": 2,
+            "ext": "http://app.kzjtv.com",
+            "jar": "https://already.free.hr/ssrtvhelp/family/main/fix24225.jar"
+        },
+        
+          {
+            "key": "发电",
+            "name": "发电┃App",
+            "type": 3,
+            "api": "csp_Fdys",
+            "playerType": 2,
+            "jar": "https://already.free.hr/ssrtvhelp/family/main/fix24225.jar"
+        },
+        
+        {
+            "key": "柠檬",
+            "name": "柠檬┃App",
+            "type": 3,
+            "api": "csp_Nmvod",
+            "playerType": 2,
+            "ext": "https://api.cnmcom.com/webcloud/nmsvip.php?url=",
+            "jar": "https://already.free.hr/ssrtvhelp/family/main/fix24225.jar"
+        },  	    
 
 {
       "key": "csp_tang",
