@@ -12,16 +12,15 @@
             "filterable": 0
         }, 
 
-      {
+   {
             "key": "Lib",
-            "name": "Lib┃直连",
+            "name": "🌟利播┃直连",
             "type": 3,
-            "api": "csp_Lib",
+            "api": "csp_Libvio",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.libvio.pw/static/js/playerconfig.js",
-             "jar": "https://already.free.hr/ssrtvhelp/family/main/fix24225.jar"
+            "changeable": 1,
+            "ext": "https://www.libvio.pw/"
         },
         
         {
