@@ -75,6 +75,16 @@
     },	    
 
     {
+      "key": "Iktv",
+      "name": "🛰KTV┃音乐┃MV",
+      "type": 3,
+      "api": "csp_Iktv",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "https://already.free.hr/ssrtvhelp/family/main/pg.jar"
+    },	    
+
+    {
       "key": "Yinyuetai",
       "name": "🛰音悦台┃音乐┃MV",
       "type": 3,
