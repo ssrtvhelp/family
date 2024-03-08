@@ -145,25 +145,7 @@
       "searchable": 1,
       "changeable": 0,
       "jar": "https://already.free.hr/ssrtvhelp/family/main/fangniu.jar"
-    },	    
-        
-        {
-      "key": "宇宙",
-      "name": "👿宇宙4K自营",
-      "type": 3,
-      "api": "csp_LvDou",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "playerType": 1,
-      "ext": {
-        "server": "http://goulanzi.yuzhoukeji.top/api.php/app/",
-        "mackey": "toudongxidegou88|qunimagebisha857",
-        "danmu": true
-      },
-       "jar": "https://already.free.hr/ssrtvhelp/family/main/pg.jar"
-    },
+    },	            
 
         {
             "key": "K影",
