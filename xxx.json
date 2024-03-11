@@ -12,6 +12,16 @@
             "filterable": 0
         }, 
 
+       {
+            "key": "💤萌米",
+            "name": "💤萌米┃App",
+            "type": 3,
+            "api": "csp_AppTT",
+            "timeout": 15,
+            "playerType": 1,
+            "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+        },	    
+
   {
             "key": "原创",
             "name": "☀原创┃无广",
