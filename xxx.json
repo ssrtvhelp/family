@@ -33,6 +33,28 @@
             "changeable": 1
         },
 
+      {
+            "key": "新星",
+            "name": "💥新星┃App",
+            "type": 1,
+            "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
+            "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },	    
+
+      {
+            "key": "白嫖",
+            "name": "👻白飘┃无广",
+            "type": 3,
+            "api": "csp_BaiPiao",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },	    
+
        {
             "key": "baipiao",
             "name": "白嫖",
