@@ -12,6 +12,19 @@
             "filterable": 0
         }, 
 
+      {
+            "key": "厂长",
+            "name": "📔厂长┃无广",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.czzy77.com/"
+        },	    
+
        {
             "key": "💤萌米",
             "name": "💤萌米┃App",
@@ -22,7 +35,7 @@
             "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
         },	    
 
-  {
+      {
             "key": "原创",
             "name": "☀原创┃无广",
             "type": 3,
@@ -32,6 +45,24 @@
             "quickSearch": 1,
             "changeable": 1
         },
+
+    {
+            "key": "攻阁",
+            "name": "🏮┃攻阁┃影视",
+            "type": 3,
+            "api": "csp_Lggys",
+            "playerType": 2,
+            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/PandaQ240309.jar"
+        },
+        
+       {
+            "key": "csp_Freeok",
+            "name": "️️👌┃FreeOK┃影视",
+            "type": 3,
+            "playerType": "1",
+            "api": "csp_Freeok",
+             "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/PandaQ240309.jar"
+        },	    
 
       {
             "key": "新星",
@@ -61,6 +92,27 @@
             "type": 3,
             "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/bpys_open.js",
             "playerType": 1
+        },
+
+{
+            "key": "💤萌米",
+            "name": "💤萌米┃App",
+            "type": 3,
+            "api": "csp_AppTT",
+            "timeout": 15,
+            "playerType": 1,
+            "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+        },
+        
+   {
+            "key": "原创",
+            "name": "☀原创┃无广",
+            "type": 3,
+            "api": "csp_YCyz",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },	    
         
         {
