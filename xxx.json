@@ -12,6 +12,26 @@
             "filterable": 0
         }, 
 
+  {
+            "key": "河马",
+            "name": "🦛┃河马┃App",
+            "type": 3,
+            "api": "csp_Hmys",
+            "playerType": 1,
+            "ext": "https://m.jmzp.net.cn$$$null$$$1",
+          "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/pg.jar"  
+        },
+        
+        {
+            "key": "奈飞狗[V2]",
+            "name": "🎉┃奈飞┃影视",
+            "type": 3,
+            "api": "http://fmys.top/lib/drpy2.min.js",
+            "ext": "http://fmys.top/lib/奈飞狗.js",
+            "quickSearch": 1,
+            "changeable": 0
+        },	    
+
       {
             "key": "厂长",
             "name": "📔厂长┃无广",
@@ -750,7 +770,8 @@
       "api": "csp_Nbys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/fm301.jar"	     
     },
      
         {
