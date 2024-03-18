@@ -30,6 +30,16 @@
             "ext": "http://fmys.top/lib/奈飞狗.js",
             "quickSearch": 1,
             "changeable": 0
+        },
+
+       {
+            "key": "Wexxpgtv",
+            "name": "🍎红富士┃TV┃App",
+            "type": 3,
+            "api": "csp_Wexxpgtv",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/wex.txt"
         },	    
 
       {
