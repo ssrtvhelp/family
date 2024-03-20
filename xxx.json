@@ -32,14 +32,14 @@
             "changeable": 0
         },
 
-       {
-            "key": "Wexxpgtv",
-            "name": "🍎红富士┃TV┃App",
+{
+            "key": "苹果",
+            "name": "🍎小苹果",
             "type": 3,
-            "api": "csp_Wexxpgtv",
+            "api": "csp_LiteApple",
             "searchable": 1,
-            "changeable": 1,
-            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/wex.txt"
+            "quickSearch": 1,
+            "changeable": 1
         },	    
 
       {
