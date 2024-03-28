@@ -4,7 +4,7 @@ import {
 from 'assets://js/lib/cat.js';
 
 let key = '996白嫖ys';
-let HOST = 'www.baipiaoys.com:9092';
+let HOST = 'https://www.baipiaoys.com:9092';
 let siteKey = '';
 let siteType = 0;
 
