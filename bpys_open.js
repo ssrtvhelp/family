@@ -1428,7 +1428,7 @@ async function play(flag, id, flags) {
     const $ = load(html);
     const js = JSON.parse($('script:contains(player_)').html().replace('var player_aaaa=', ''));
     const playurl = js.url;
-    const result = await request("https://www.baipiao-ys.cc:6062/player/analysis.php?v=" + playurl);
+    const result = await request("https://www.baipiaoys.com:9092/player/analysis.php?v=" + playurl);
     const encUrl = result.match(/"url":\s*"(.*?)"/)[1];
     console.debug(encUrl);
     const playUrl = rc4(encUrl, '202205051426239465');
