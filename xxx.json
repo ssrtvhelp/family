@@ -352,7 +352,7 @@
       "key": "安博",
       "name": "👑安博",
       "type": 4,
-      "api": "https://tang.serv00.net/power/ub1818",
+      "api": "https://tang.serv00.net/power/ub1818?token=a0b098b2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
