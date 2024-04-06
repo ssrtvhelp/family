@@ -31,18 +31,6 @@
             "changeable": 1
         },	    
 
- {
-        "key": "加菲猫",
-        "name": "加菲猫",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/加菲猫影视.json",
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
-    },	    
-
   {
             "key": "河马",
             "name": "🦛┃河马┃App",
