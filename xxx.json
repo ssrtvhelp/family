@@ -836,38 +836,7 @@
                 ]
             }
         },
-        {
-            "key": "YiSo",
-            "name": "☁️易搜┃4K搜",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
-        },
-        {
-            "key": "PanSou",
-            "name": "🦊盘搜┃搜索",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-        },
-        {
-            "key": "Zhaozy",
-            "name": "🎉资源┃4K搜",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "https://zhaoziyuan.pw/$$$http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$wudideni$$$wudi"
-        },
+            
         {
             "key": "七夜",
             "name": "😾七夜┃搜索",
@@ -879,26 +848,82 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
         },
         {
+            "key": "夸搜",
+            "name": "🐺夸搜┃搜索",
+            "type": 3,
+            "api": "csp_QuarkPanso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "quarkCookie": "tvfan/cookie.txt",
+                "from": "4k|auto|fhd"
+            }
+        },
+        {
+            "key": "YiSo",
+            "name": "😹易搜┃搜索",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "from": "4k|auto|fhd"
+            }
+        },
+        {
+            "key": "PanSou",
+            "name": "🦊盘搜┃搜索",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "from": "4k|auto|fhd"
+            }
+        },
+        {
             "key": "UpYun",
-            "name": "☁️Up搜┃4K搜",
+            "name": "😻Up搜┃搜索",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "from": "4k|auto|fhd"
+            }
         },
-     
         {
-            "key": "push_agent",
-            "name": "推送格式",
+            "key": "PanSearch",
+            "name": "🙀盘Se┃搜索",
             "type": 3,
-            "api": "csp_Push",
+            "api": "csp_PanSearch",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "changeable": 0,
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "from": "4k|auto|fhd"
+            }
+        },
+     {
+            "key": "push_agent",
+            "name": "🛴手机┃推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "quarkCookie": "tvfan/cookie.txt",
+                "from": "4k|auto|fhd"
+            }
         }
     ],
     "parses": [
