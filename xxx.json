@@ -13,97 +13,57 @@
         }, 
 
       {
-
       "key": "快看",
-
       "name": "快看",
-
       "type": 3,
-
       "api": "csp_Kuaikan",
-
       "searchable": 1,
-
       "quickSearch": 1,
-
-      "filterable": 1
-,
+      "filterable": 1,
       "jar":"http://home.jundie.top:81/jar/jundie_spider.jar"
     },
     
     {
-
       "key": "秋霞",
-
       "name": "秋霞",
-
       "type": 3,
-
       "api": "csp_Appqx",
-
       "searchable": 1,
-
       "quickSearch": 1,
-
-      "filterable": 1
-,
+      "filterable": 1,
       "jar":"http://home.jundie.top:81/jar/jundie_spider.jar"
     },
     
     {
-
       "key": "ikanbot",
-
       "name": "IkanBot",
-
       "type": 3,
-
       "api": "csp_Ikanbot",
-
       "searchable": 1,
-
       "quickSearch": 1,
-
-      "filterable": 1
-,
+      "filterable": 1,
       "jar":"http://home.jundie.top:81/jar/jundie_spider.jar"
     },
     
     {
-
       "key": "哔嘀",
-
       "name": "哔嘀",
-
       "type": 3,
-
       "api": "csp_Bdys01",
-
       "searchable": 1,
-
       "quickSearch": 1,
-
-      "filterable": 1
-,
+      "filterable": 1,
       "jar":"http://home.jundie.top:81/jar/jundie_spider.jar"
     },
     
     {
-
       "key": "泥巴",
-
       "name": "泥巴(墙)",
-
       "type": 3,
-
       "api": "csp_Nbys",
-
       "searchable": 1,
-
       "quickSearch": 1,
-
-      "filterable": 1
-,
+      "filterable": 1,
       "jar":"http://home.jundie.top:81/jar/jundie_spider.jar"
     },	    
 
@@ -724,16 +684,6 @@
       "api": "csp_Ying",
       "searchable": 1,
       "changeable": 1
-    },
-     {
-      "key": "泥巴",
-      "name": "泥巴(墙)",
-      "type": 3,
-      "api": "csp_Nbys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/fm301.jar"	     
     },
      
         {
