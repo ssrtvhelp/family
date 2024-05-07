@@ -61,13 +61,13 @@
             "key": "厂长",
             "name": "📔厂长┃无广",
             "type": 3,
-            "api": "csp_Czsapp",
+            "api": "csp_NewCz",
             "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzy77.com/"
+            "ext": "https://czzy.top/"
         },	    
 
        {
@@ -99,15 +99,6 @@
             "playerType": 2,
             "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/PandaQ240309.jar"
         },
-        
-       {
-            "key": "csp_Freeok",
-            "name": "️️👌┃FreeOK┃影视",
-            "type": 3,
-            "playerType": "1",
-            "api": "csp_Freeok",
-             "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/PandaQ240309.jar"
-        },	    
 
       {
             "key": "新星",
