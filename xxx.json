@@ -12,6 +12,101 @@
             "filterable": 0
         }, 
 
+      {
+
+      "key": "快看",
+
+      "name": "快看",
+
+      "type": 3,
+
+      "api": "csp_Kuaikan",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1
+,
+      "jar":"http://home.jundie.top:81/jar/jundie_spider.jar"
+    },
+    
+    {
+
+      "key": "秋霞",
+
+      "name": "秋霞",
+
+      "type": 3,
+
+      "api": "csp_Appqx",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1
+,
+      "jar":"http://home.jundie.top:81/jar/jundie_spider.jar"
+    },
+    
+    {
+
+      "key": "ikanbot",
+
+      "name": "IkanBot",
+
+      "type": 3,
+
+      "api": "csp_Ikanbot",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1
+,
+      "jar":"http://home.jundie.top:81/jar/jundie_spider.jar"
+    },
+    
+    {
+
+      "key": "哔嘀",
+
+      "name": "哔嘀",
+
+      "type": 3,
+
+      "api": "csp_Bdys01",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1
+,
+      "jar":"http://home.jundie.top:81/jar/jundie_spider.jar"
+    },
+    
+    {
+
+      "key": "泥巴",
+
+      "name": "泥巴(墙)",
+
+      "type": 3,
+
+      "api": "csp_Nbys",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1
+,
+      "jar":"http://home.jundie.top:81/jar/jundie_spider.jar"
+    },	    
+
 {"key":"小点","name":"💥小点┃多线","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
         
  {"key":"糯米","name":"🍙糯米┃秒播","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"},	    
