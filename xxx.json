@@ -35,17 +35,6 @@
     },
     
     {
-      "key": "ikanbot",
-      "name": "IkanBot",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"http://home.jundie.top:81/jar/jundie_spider.jar"
-    },
-    
-    {
       "key": "哔嘀",
       "name": "哔嘀",
       "type": 3,
