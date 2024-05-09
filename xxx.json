@@ -12,7 +12,9 @@
             "filterable": 0
         }, 
 
-        {"key":"Moli","name":"HDmoli|网盘","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$https://www.hdmoli.pro/$$$null$$$1$$$https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/moli.json","jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/pg.jar"},	    
+{"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1},	    
+
+{"key":"Moli","name":"HDmoli|网盘","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$https://www.hdmoli.pro/$$$null$$$1$$$https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/moli.json","jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/pg.jar"},	    
 
       {
       "key": "快看",
