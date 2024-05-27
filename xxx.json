@@ -150,16 +150,6 @@
             "changeable": 1
         },
 
-    {
-            "key": "攻阁",
-            "name": "🏮┃攻阁┃影视",
-            "type": 3,
-            "api": "csp_Lggys",
-            "playerType": 2,
-            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/PandaQ240509.jar"
-        },
-
-
 {
             "key": "💤萌米",
             "name": "💤萌米┃App",
