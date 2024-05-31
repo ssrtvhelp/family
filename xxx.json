@@ -19,7 +19,9 @@
       "playerType": "2",
       "api": "csp_Juqq",
       "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/PandaQ240509.jar"
-    },   	    
+    },   	
+
+{"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	    
 
 {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},	    
 
