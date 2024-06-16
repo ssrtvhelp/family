@@ -13,6 +13,14 @@
         }, 
 
        {
+            "key": "追剧兔",
+            "name": "追剧兔┃┃💠V2",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "ext": "https://www.zjtu.one/api.php/app/"
+        },	    
+
+       {
             "key": "蛋蛋",
             "name": "🍓蛋蛋┃多线",
             "type": 3,
