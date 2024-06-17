@@ -49,7 +49,18 @@
       "playerType": "2",
       "api": "csp_Juqq",
       "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar"
-    },   	
+    },   
+
+{
+            "key": "FreeOK",
+            "name": "️️👌┃Fre┃影视",
+            "type": 3,
+            "api": "csp_FreeOK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://like.xn--z7x900a.com/jar/PandaQ240616.jar"
+        },	    
 
        {
             "key": "Auete",
