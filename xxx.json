@@ -48,7 +48,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Juqq",
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/PandaQ240609.jar"
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/PandaQ240616.jar"
     },   	
 
        {
@@ -137,9 +137,7 @@
       "jar":"http://home.jundie.top:81/jar/jundie_spider.jar"
     },	    
 
-{"key":"小点","name":"💥小点┃多线","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-        
- {"key":"糯😡米","name":"🍙糯米┃秒播","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"},	    
+{"key":"小点","name":"💥小点┃多线","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},	    
 
        {
             "key": "原创",
@@ -160,16 +158,6 @@
             "playerType": 1,
             "ext": "https://m.jmzp.net.cn$$$null$$$1",
           "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/pg1.jar"  
-        },
-        
-        {
-            "key": "奈飞狗[V2]",
-            "name": "🎉┃奈飞┃影视",
-            "type": 3,
-            "api": "http://fmys.top/lib/drpy2.min.js",
-            "ext": "http://fmys.top/lib/奈飞狗.js",
-            "quickSearch": 1,
-            "changeable": 0
         },
 
 {
@@ -216,15 +204,6 @@
             "changeable": 1
         },
 
-{
-            "key": "💤萌米",
-            "name": "💤萌米┃App",
-            "type": 3,
-            "api": "csp_AppTT",
-            "timeout": 15,
-            "playerType": 1,
-            "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-        },	    
         
         {
             "key": "💤追剧",
@@ -442,21 +421,6 @@
             "ext": "http://op.ysdqjs.cn",
             "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/ssrtvhelp/family/main/fix24117.jar"
         },   
-        
-          
-      
-      {
-      "key": "csp_YqkTV",
-      "name": "一起看TV(SP)",
-      "type": 3,
-      "api": "csp_YqkTV",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://119.91.192.228/hzhst/jarjar/cs888.jar"
-    },        
-
 	    
 {
             "key": "玩偶",
@@ -478,16 +442,6 @@
 	    
 {"key":"小柚","name":"🍊小柚┃App","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},
 
-{
-            "key": "萌😏米",
-            "name": "👀萌😏米┃App",
-            "type": 3,
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
-        },
 
 {"key":"星奇","name":"💥星奇┃App","type":3,"api":"csp_AppMao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"},
 		
@@ -515,15 +469,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        {
-            "key": "csp_77",
-            "name": "🥣七七┃APP",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+        
         {
             "key": "😏Xinsj",
             "name": "👓视😏觉┃直连",
@@ -605,43 +551,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
- 
-    {
-      "key": "本地泥巴",
-      "name": "泥巴(go)",
-      "type": 4,
-      "api": "http://home.jundie.top:39001/csp/nivod?dl=true",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "免翻泥巴",
-      "name": "泥巴(p)",
-      "type": 4,
-      "api": "http://home.jundie.top:9568/api/tvbox?key=xxxx&proxy=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "免翻星星",
-      "name": "星视界(p)",
-      "type": 4,
-      "api": "http://home.jundie.top:9568/api/tvbox?key=aoao&proxy=https://jundie.deno.dev/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "HELLO",
-      "name": "HELLO(p)",
-      "type": 4,
-      "api": "http://t4.ok.now.cc/csp/clx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
+
         {
       "key": "iqiyi",
       "name": "爱奇艺(p)",
