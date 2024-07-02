@@ -163,16 +163,6 @@
 		}
 	},	    
     
-    {
-      "key": "泥巴",
-      "name": "泥巴(墙)",
-      "type": 3,
-      "api": "csp_Nbys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"http://home.jundie.top:81/jar/jundie_spider.jar"
-    },	    
 
 {"key":"小点","name":"💥小点┃多线","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},	    
 
@@ -317,49 +307,6 @@
       "changeable": 0,
       "jar": "https://already.free.hr/ssrtvhelp/family/main/fangniu.jar"
     },	    
-        
-{
-			"key": "haiwaikan",
-			"name": "海外看",
-			"type": 1,
-			"api": "https://haiwaikan.com/api.php/provide/vod",
-			"searchable": 1,
-			"changeable": 1,
-			"categories": [
-				"日本动漫",
-				"国产动漫",
-				"欧美动漫",
-				"国产剧",
-				"韩剧",
-				"日剧",
-				"台剧",
-				"泰剧",
-				"港剧",
-				"欧美剧",
-				"动画电影",
-				"韩国综艺",
-				"国产综艺",
-				"日本综艺",
-				"欧美综艺",
-				"冒险片",
-				"剧情片",
-				"动作片",
-				"同性片",
-				"喜剧片",
-				"奇幻片",
-				"恐怖片",
-				"悬疑片",
-				"惊悚片",
-				"战争片",
-				"歌舞片",
-				"灾难片",
-				"爱情片",
-				"犯罪片",
-				"科幻片",
-				"纪录片",
-				"经典片"
-			]
-		},               
 
 {
       "key":"美剧迷",
@@ -374,17 +321,6 @@
       "ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$https://www.meijumi.net/$$$null$$$1",
         "jar": "https://already.free.hr/ssrtvhelp/family/main/pg.jar"
 },         
-
-{
-      "key": "安博",
-      "name": "👑安博",
-      "type": 4,
-      "api": "https://tang.hz.cz/power/ub1818?token=a0b098b2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
         
         {
             "key": "酷看",
@@ -553,7 +489,7 @@
             "ext": "https://auete.pro/"
         },
         {
-            "key": "Xinsj",
+            "key": "Xin1sj",
             "name": "👓视觉┃直连",
             "type": 3,
             "api": "csp_Xinsj",
