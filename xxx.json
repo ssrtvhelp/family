@@ -622,7 +622,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
+            "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}
         },
         {
             "key": "夸搜",
@@ -633,8 +633,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "quarkCookie": "tvfan/cookie.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"
             }
         },
         {
@@ -646,8 +645,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "tvfan/token.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"
             }
         },
         {
@@ -659,8 +657,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "tvfan/token.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"
             }
         },
         {
@@ -672,8 +669,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "tvfan/token.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"
             }
         },
         {
@@ -685,8 +681,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "tvfan/token.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"
             }
         },
      {
@@ -697,9 +692,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "ext": {
-                "aliToken": "tvfan/token.txt",
-                "quarkCookie": "tvfan/cookie.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"
             }
         }
     ],
