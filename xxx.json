@@ -565,17 +565,6 @@
       "quickSearch": 1,
       "ext": "https://zy.xiaomaomi.tv/api.php/app/"
     },
-    
-
-    {
-      "key": "mrys",
-      "name": "明日影视(p)",
-      "type": 4,
-      "api": "http://home.jundie.top:9568/api/tvbox?key=mrys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
  
     {
       "key": "动漫巴士",
@@ -585,14 +574,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "櫻花",
-      "name": "櫻花",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "changeable": 1
     },
      
         {
