@@ -13,6 +13,45 @@
             "filterable": 0
         }, 
 
+        {
+            "key": "华为吧",
+            "name": "HW8",
+            "type": 4,
+            "api": "http://zhangqun66.serv00.net/hwb.php",
+            "searchable": 1,
+            "quickSearch":1,
+            "filterable":0
+        },
+
+{
+  "key": "py_dm84",
+  "name": "DM84",
+  "type": 3,
+  "api": "https://gitee.com/dobebly/epg_-img/raw/master/py_dm84.py",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 1
+},
+
+{
+   "key": "youtubebf",
+   "name": "YG播放列表",
+   "type": 4,
+   "api": "http://zhangqun66.serv00.net/ytlb.php",
+   "searchable": 0,
+   "changeable": 0
+ },
+        
+{
+"key": "实验金鹰",
+"name": "实验金鹰",
+"type": 1,
+"api": "http://zhangqun66.serv00.net/jy.php",
+"searchable": 1,
+"changeable": 1
+},	    
+
        {
             "key": "追剧兔",
             "name": "追剧兔┃┃💠V2",
