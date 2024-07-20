@@ -122,18 +122,15 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Juqq",
-      "jar": "http://like.xn--z7x900a.com/jar/PandaQ240711.jar"
+      "jar": "http://like.xn--z7x900a.com/jar/PandaQ240718.jar"
     },   
 
-{
-            "key": "FreeOK",
-            "name": "️️👌┃Fre┃影视",
+       {
+            "key": "csp_SuBaiBai",
+            "name": "🏳️┃素白┃影视",
             "type": 3,
-            "api": "csp_FreeOK",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://like.xn--z7x900a.com/jar/PandaQ240711.jar"
+            "api": "csp_SuBaiBai",
+             "jar": "http://like.xn--z7x900a.com/jar/PandaQ240718.jar"
         },	    
 
        {
