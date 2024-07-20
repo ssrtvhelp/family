@@ -23,6 +23,14 @@
             "filterable":0
         },
 
+     {
+        "key": "php_huaweiba",
+        "name": "华为吧",
+        "type": 4,
+        "api": "https://t4.doube.eu.org/huaweiba.php",
+        "searchable": 1
+      },	    
+
 {
   "key": "py_dm84",
   "name": "DM84",
