@@ -29,7 +29,15 @@
         "type": 4,
         "api": "https://t4.doube.eu.org/huaweiba.php",
         "searchable": 1
-      },	    
+      },
+
+        {
+            "key": "php_hmezy",
+            "name": "黑木耳采集",
+            "type": 4,
+            "api": "https://t4.doube.eu.org/heimuer.php",
+            "searchable": 1
+        },	    
 
 {
   "key": "py_dm84",
@@ -53,7 +61,7 @@
         
 {
 "key": "实验金鹰",
-"name": "实验金鹰",
+"name": "金鹰采集",
 "type": 1,
 "api": "http://zhangqun66.serv00.net/jy.php",
 "searchable": 1,
