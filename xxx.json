@@ -1001,7 +1001,7 @@
     "lives": [
         
    {
-      "name": "直播1",
+      "name": "直播俊",
       "type": 0,
       "playerType": 1,
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
@@ -1023,6 +1023,8 @@
       "playerType": 1,
       "url": "http://home.jundie.top:81/ray/tvlive.txt"
     },
+
+{"name":"live","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://live.fanmingming.com/tv/{name}.png"},	    
 
 {"name":"SAO0","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"IPV6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
