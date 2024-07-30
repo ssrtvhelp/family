@@ -78,15 +78,6 @@
    "searchable": 0,
    "changeable": 0
  },
-
-{
-            "key": "采集拼接",
-            "name": "采集拼接",
-            "type": 1,
-            "api": "http://zhangqun66.serv00.net/1581.php",
-            "searchable": 1,
-            "changeable": 1
-        },	    
         
 {
 "key": "实验金鹰",
