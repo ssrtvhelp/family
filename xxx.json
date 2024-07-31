@@ -1020,10 +1020,10 @@
     },
     
     {
-      "name": "git",
+      "name": "YangG",
       "type": 0,
       "playerType": 1,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/cxr9912/cxr2022/main/my.txt"
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"
     },
 
 {"name":"长老","type":0,"url":"https://tang.hz.cz/zb/stv?token=72d33aea","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://live.fanmingming.com/tv/{name}.png"},	    
