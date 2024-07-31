@@ -1029,7 +1029,7 @@
 {"name":"live","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://live.fanmingming.com/tv/{name}.png"},	    
 
 {"name":"SAO0","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"github","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/xiaomayi0804/ding/main/MTV.m3u8","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"github","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/xiaomayi0804/ding/main/TV.m3u8","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 	    
     ],
 	
