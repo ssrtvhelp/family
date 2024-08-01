@@ -12,6 +12,16 @@
             "quickSearch": 0,
             "filterable": 0
         }, 
+
+       {
+            "key": "煤球",
+            "name": "🍓煤球┃多线",
+            "type": 3,
+            "api": "csp_Appmq",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },	    
     
 {
     "key": "T4-heimuer",
