@@ -42,7 +42,18 @@
             "api": "http://zhangqun66.serv00.net/cjjh.php",
             "searchable": 1,
             "changeable": 1
-        },	    
+        },
+
+{
+    "key": "T4-欧乐",
+    "name": "欧乐(T4)",
+    "type": 4,
+    "api": "https://tang.hz.cz/power/olelive?token=72d33aea",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+},	    
     
 {
     "key": "T4-heimuer",
