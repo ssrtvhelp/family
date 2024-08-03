@@ -116,9 +116,9 @@
    "key": "youtubebf",
    "name": "YG播放列表",
    "type": 4,
-   "api": "http://zhangqun66.serv00.net/ytlb.php",
-   "searchable": 0,
-   "changeable": 0
+   "api": "http://zhangqun66.serv00.net/yt/yt001.php",
+   "searchable": 1,
+   "changeable": 1
  },
         
 {
@@ -181,7 +181,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": {
-                "quarkCookie": "tvfan/cookie.txt",
+                "quarkCookie": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto|fhd"
             }
         },	    
@@ -242,9 +242,6 @@
 {"key":"热😇播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},	    
 
 {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1},	    
-
-{"key":"Moli","name":"HDmoli|网盘","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$https://www.hdmoli.pro/$$$null$$$1$$$https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/moli.json","jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/pg.jar"},	    
-    
 
 {
 	"key":"Youtube",
