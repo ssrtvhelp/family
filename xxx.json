@@ -1067,6 +1067,15 @@
       "playerType": 1,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"
     },
+{"name":"LR"
+,"type":0,
+"url":"http://175.178.251.183:6689/live.m3u",
+"playerType":1,
+"ua":"okhttp/3.15",
+"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"},
+	    
+{"name":"ITV","type":0,"url":"https://live.fanmingming.com/tv/m3u/itv.m3u","playerType":1},	    
 
 {"name":"长老","type":0,"url":"https://tang.hz.cz/zb/stv?token=72d33aea","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://live.fanmingming.com/tv/{name}.png"},	    
 
