@@ -178,24 +178,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },	    
-
- {
-      "key": "csp_Juqq",
-      "name": "⭕┃剧圈┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Juqq",
-      "jar": "http://like.xn--z7x900a.com/jar/PandaQ240718.jar"
-    },   
-
-       {
-            "key": "csp_SuBaiBai",
-            "name": "🏳️┃素白┃影视",
-            "type": 3,
-            "api": "csp_SuBaiBai",
-             "jar": "http://like.xn--z7x900a.com/jar/PandaQ240718.jar"
-        },	    
+        },	     
 
        {
             "key": "Auete",
@@ -237,9 +220,6 @@
 		}
 	},	    
     
-
-{"key":"小点","name":"💥小点┃多线","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},	    
-
        {
             "key": "原创",
             "name": "☀原创┃无广",
@@ -354,16 +334,6 @@
     },	    
 
     {
-      "key": "Iktv",
-      "name": "🛰KTV┃音乐┃MV",
-      "type": 3,
-      "api": "csp_Iktv",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "https://already.free.hr/ssrtvhelp/family/main/pg.jar"
-    },	    
-
-    {
       "key": "Yinyuetai",
       "name": "🛰音悦台┃音乐┃MV",
       "type": 3,
@@ -417,17 +387,7 @@
             "quickSearch": 1,
             "changeable": 1
         },      
-        
-{
-   "key":"厂长弹幕版",
-   "name":"厂长|直连",
-   "type":3,
-   "api":"csp_Czzy", 
-   "searchable":1,
-   "quickSearch":1,
-   "filterable":1,
-   "jar":"https://gitee.com/okjack/okk/raw/master/okpng.txt"
-},
+
         
         {
             "key": "csp_Anime1",
