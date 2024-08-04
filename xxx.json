@@ -27,18 +27,6 @@
             "changeable": 1
         },	
 
-        {
-            "key": "lurenjia",
-            "name": "🕵自建高清",
-            "playerType": 1,
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": " http://dh.li0580.com:6532/api.php/app/"
-        },
-
        {
             "key": "采集拼接",
             "name": "采集集合",
@@ -104,26 +92,6 @@
             "api": "https://t4.doube.eu.org/heimuer.php",
             "searchable": 1
         },	    
-
-{
-  "key": "py_dm84",
-  "name": "DM84",
-  "type": 3,
-  "api": "https://gitee.com/dobebly/epg_-img/raw/master/py_dm84.py",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "changeable": 1
-},
-
-{
-   "key": "youtubebf",
-   "name": "YG播放列表",
-   "type": 4,
-   "api": "http://zhangqun66.serv00.net/yt/yt001.php",
-   "searchable": 1,
-   "changeable": 1
- },
         
 {
 "key": "实验金鹰",
