@@ -13,6 +13,44 @@
             "filterable": 0
         }, 
 
+        {
+            "key": "快看",
+            "name": "🎦快看HDR-E",
+            "type": 1,
+            "api": " https://kuaikan-api.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playurl": "json:https://jx.m3u8.biz/gg.php?url=",
+            "categories": [
+                "国产剧",
+                "动作片",
+                "喜剧片",
+                "冒险片",
+                "喜剧片",
+                "剧情片",
+                "爱情片",
+                "科幻片",
+                "悬疑片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "动漫片",
+                "香港剧",
+                "网络电影",
+                "热门短剧",
+                "国产动漫",
+                "日韩动漫",
+                "国产综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫"
+            ]
+        },	    
+
  {"key":"火狐","name":"火狐资源(APP)","type":1,"api":"https://www.haohuazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0,"filterable":1,"playerType":2,"categories":["内地剧","韩国剧","动作片","科幻片","战争片","犯罪片","爱情片","喜剧片","欧美剧","香港剧","韩剧","日剧","动画片"]},
         
  {"key":"厂€长","name":"厂长影视(SP)","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.czys.pro/","jar":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/JAR/danmu.jar;md5;ef899b3f9babf606e653cb735a70cfac"},	    
