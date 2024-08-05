@@ -17,6 +17,33 @@
         
  {"key":"厂€长","name":"厂长影视(SP)","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.czys.pro/","jar":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/JAR/danmu.jar;md5;ef899b3f9babf606e653cb735a70cfac"},	    
 
+{
+            "key": "hw5",
+            "name": "海外8",
+            "type": 1,
+            "api": "https://hw8.live/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1
+        },
+        
+        {
+            "key": "hh",
+            "name": "firebox",
+            "type": 1,
+            "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
+            "searchable": 1,
+            "changeable": 1
+        },
+        
+        {
+            "key": "hmr",
+            "name": "HMER",
+            "type": 1,
+            "api": "https://www.heimuer.tv/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1
+        },
+	    
        {
             "key": "煤球",
             "name": "🍓煤球┃多线",
