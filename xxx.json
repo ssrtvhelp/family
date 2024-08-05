@@ -28,6 +28,14 @@
         },	
 
        {
+            "key": "csp_SuBaiBai",
+            "name": "🏳️┃素白┃影视",
+            "type": 3,
+            "api": "csp_SuBaiBai",
+             "jar": "http://like.xn--z7x900a.com/jar/PandaQ240802.jar"
+        },	    
+
+       {
             "key": "采集拼接",
             "name": "采集集合",
             "type": 1,
