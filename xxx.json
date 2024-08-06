@@ -100,15 +100,6 @@
              "jar": "http://like.xn--z7x900a.com/jar/PandaQ240802.jar"
         },	    
 
-       {
-            "key": "采集拼接",
-            "name": "采集集合",
-            "type": 1,
-            "api": "http://zhangqun66.serv00.net/cjjh.php",
-            "searchable": 1,
-            "changeable": 1
-        },
-
 {
     "key": "T4-欧乐",
     "name": "欧乐(T4)",
@@ -140,15 +131,6 @@
     "filterable": 1,
     "changeable": 0
 },
-        {
-            "key": "华为吧",
-            "name": "HW8",
-            "type": 4,
-            "api": "http://zhangqun66.serv00.net/hwb.php",
-            "searchable": 1,
-            "quickSearch":1,
-            "filterable":0
-        },
 
      {
         "key": "php_huaweiba",
@@ -164,16 +146,7 @@
             "type": 4,
             "api": "https://t4.doube.eu.org/heimuer.php",
             "searchable": 1
-        },	    
-        
-{
-"key": "实验金鹰",
-"name": "金鹰采集",
-"type": 1,
-"api": "http://zhangqun66.serv00.net/jy.php",
-"searchable": 1,
-"changeable": 1
-},	    
+        },	        
 
         {
             "key": "bfa101f4d8a61b23240d05343b173551",
