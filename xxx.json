@@ -13,6 +13,8 @@
             "filterable": 0
         }, 
 
+{"key":"搜狗","name":"搜狗影视(JS)","type":3,"api":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/libs/drpy2.js","ext":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/JS/sougou.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2},	    
+
       {
          "key": "小马影视",
          "name": "小马影视",
@@ -207,16 +209,6 @@
             }
         },	    
 
-       {
-            "key": "蛋蛋",
-            "name": "🍓蛋蛋┃多线",
-            "type": 3,
-            "api": "csp_Cddys",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
 
       {
             "key": "文采",
