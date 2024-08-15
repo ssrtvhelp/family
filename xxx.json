@@ -337,20 +337,6 @@
             "changeable": 1
         },
 
-        
-        {
-            "key": "💤追剧",
-            "name": "💥追剧┃App",
-            "type": 3,
-            "api": "csp_AppTT",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "playerType": 1,
-            "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
-        },	    
-
    {
             "key": "Lib",
             "name": "🌟利播┃直连",
@@ -428,17 +414,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        
-  {
-            "key": "csp_Bttoo",
-            "name": "🍄比特┃直连",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },      
+        }, 
 
         
         {
@@ -449,20 +425,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },      
-        
-    
-     {
-            "key": "天1天",
-            "name": "😎天天┃App",
-            "type": 3,
-            "api": "csp_TTian",
-            "playerType": 2,
-            "ext": "http://op.ysdqjs.cn",
-            "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/ssrtvhelp/family/main/pg.jar"
-        },   
-    
-	    
+        },
+    	    
 {
             "key": "玩偶",
             "name": "👽玩偶哥哥┃4K弹幕",
