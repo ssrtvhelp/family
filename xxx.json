@@ -84,15 +84,6 @@
             "searchable": 1,
             "changeable": 1
         },
-        
-        {
-            "key": "hmr",
-            "name": "HMER",
-            "type": 1,
-            "api": "https://www.heimuer.tv/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1
-        },
 	    
        {
             "key": "煤球",
