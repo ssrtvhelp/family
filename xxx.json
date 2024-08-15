@@ -15,6 +15,45 @@
 
 {"key":"搜狗","name":"搜狗影视(JS)","type":3,"api":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/libs/drpy2.js","ext":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/JS/sougou.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2},	    
 
+  {"key":"饭团影院","name":"饭团影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/XBPQ/fantuan.json","jar":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/JAR/dongchen.jar;md5;CA1DC291AA150BC8AC1628CF7E18A2AE"},
+        
+{"key":"csp_XBPQ_神仙影视","name":"神仙影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/XBPQ/sxys.json","jar":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
+
+        {
+            "key": "drpy_js_NY",
+            "name": "纽约秒播",
+            "type": 3,
+            "api": "https://pg.xmaec.dynv6.net/lib/drpy2.min.js",
+            "ext": "https://pg.xmaec.dynv6.net/js/nyyy.js",
+            "jar":"https://pg.xmaec.dynv6.net/pg.jar"
+        },
+
+      {
+            "key": "Youtube-pg",
+            "name": "Youtube（免翻可看）",
+            "type": 3,
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "timeout": 120,
+            "ext": {
+                "token": "https://pg.xmaec.dynv6.net/lib/tokenm.json",
+                "json": "https://pg.xmaec.dynv6.net/lib/youtube.json",
+                "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+                "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+                "codecs": "",
+                "proxy": "proxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            },
+            "jar":"https://pg.xmaec.dynv6.net/pg.jar"   
+        
+        },  	    
+	    
       {
          "key": "小马影视",
          "name": "小马影视",
