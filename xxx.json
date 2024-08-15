@@ -239,7 +239,10 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://auete.pro/"
-        },	    
+        },	  
+
+{"key":"饭团影院","name":"饭团影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/XBPQ/fantuan.json","jar":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/JAR/dongchen.jar;md5;CA1DC291AA150BC8AC1628CF7E18A2AE"},
+{"key":"csp_XBPQ_神仙影视","name":"神仙影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/XBPQ/sxys.json","jar":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},    
 
 {"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	    
 
