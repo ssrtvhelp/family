@@ -34,7 +34,7 @@
             "type": 3,
             "api": "csp_Youtube",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "changeable": 0,
             "timeout": 120,
             "ext": {
