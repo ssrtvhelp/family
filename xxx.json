@@ -13,6 +13,8 @@
             "filterable": 0
         }, 
 
+{"key":"抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},	    
+
 {"key":"搜狗","name":"搜狗影视(JS)","type":3,"api":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/libs/drpy2.js","ext":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/JS/sougou.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2},	    
 
   {"key":"饭团影院","name":"饭团影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/XBPQ/fantuan.json","jar":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/JAR/dongchen.jar;md5;CA1DC291AA150BC8AC1628CF7E18A2AE"},
