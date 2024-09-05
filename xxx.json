@@ -25,14 +25,16 @@
         
 {"key":"csp_XBPQ_神仙影视","name":"神仙影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/XBPQ/sxys.json","jar":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
 
-        {
-            "key": "drpy_js_NY",
-            "name": "纽约秒播",
-            "type": 3,
-            "api": "https://pg.xmaec.dynv6.net/lib/drpy2.min.js",
-            "ext": "https://pg.xmaec.dynv6.net/js/nyyy.js",
-            "jar":"https://pg.xmaec.dynv6.net/pg.jar"
-        },
+    {
+      "key":"nyys",
+      "name":"纽约影视",
+      "type":3,
+      "api":"csp_XPathFilter",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://4tvbox.ggff.net/ys.json"
+    },   
 
       {
             "key": "Youtube-pg",
