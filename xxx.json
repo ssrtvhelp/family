@@ -990,10 +990,6 @@
 	    
 {"name":"LR-M3U","type":0,"url":"http://175.178.251.183:6689/live.m3u","playerType":1},	    
 
-{"name":"长老","type":0,"url":"https://tang.hz.cz/zb/stv?token=72d33aea","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://live.fanmingming.com/tv/{name}.png"},	    
-
 {"name":"SAO0","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"FFFV","type":0,"url":"https://iptv.b2og.com/fmml_ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
-	    
     ]
 }
