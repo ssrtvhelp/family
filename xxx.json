@@ -14,6 +14,41 @@
         }, 
 
        {
+            "key": "csp_瓜子",
+            "name": "🌰瓜子┃1080P",
+            "api": "csp_Gz360",
+            "type": 3,
+            "searchable": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "changeable": 0,
+            "jar":"./hebine.jar" 
+        },
+        
+        {
+            "key": "君君",
+            "name": "🚗君君┃1080P",
+            "playerType": 1,
+            "type": 3,
+            "changeable": 0,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://122.228.85.203:1000/api.php/app/"
+        },
+        
+        {
+            "key": "freeok",
+            "name": "🦁freeOK┃独家",
+            "type": 3,
+            "changeable": 1,
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "api": "csp_FreeOK",
+            "jar":"./hebine.jar" 
+        },	    
+
+       {
          "key": "酷影",
          "name": "酷影",
          "type": 3,
@@ -624,6 +659,96 @@
         ]
       }
     },
+
+{
+            "name": "4K解析",
+            "type": 1,
+            "url": "http://www.mpanso.com/%E6%88%91%E7%88%B1%E4%BD%A0.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+
+{
+            "name": "反弹",
+            "type": 1,
+            "url": "http://www.mpanso.com/小姐姐/反弹.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+
+{
+            "name": "1080解析",
+            "type": 1,
+            "url": "https://cdn.suxun.site/api/?key=Vmo3WNsFRY20yOfGZy&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+},	    
     
     {
             "name": "蚂蚁🌾",
