@@ -24,6 +24,19 @@
             "changeable": 0,
             "jar":"./hebine.jar" 
         },
+
+       {
+            "key": "hipy_guazi",
+            "name": "🍉瓜子┃1080P",
+            "type": 3,
+            "api": "http://47.76.163.123/drpy_dzlive/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "http://www.mpanso.com/瓜子.js"
+        },	    
 	    
         {
             "key": "君君",
