@@ -13,6 +13,16 @@
             "filterable": 0
         }, 
 
+        {
+            "key": "米|搜",
+            "name": "🌾米搜┃盘盘4K",
+            "type": 3,
+            "api": "csp_MiSou",
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/fatcat/kk.txt",
+            "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/hebine.jar" 
+        },	    
+
        {
             "key": "csp_瓜子",
             "name": "🌰瓜子┃1080P",
