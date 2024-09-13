@@ -1112,10 +1112,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     
-    {"name":"ILR","type":0,"url":"http://175.178.251.183:6689/live.m3u","playerType":1},
-    
-    {"name":"XIUTAN","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","type":0,"url":"https://xhdwc.tk/xiutan.m3u"},
-    
     {   "name":"范明明•综合",
         "type":0,
         "url":"https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
