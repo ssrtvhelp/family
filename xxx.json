@@ -1103,7 +1103,7 @@
     ],
     "lives": [
         
-   {
+    {
       "name": "直播俊",
       "type": 0,
       "playerType": 1,
@@ -1111,8 +1111,12 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-
-{"name":"live","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://live.fanmingming.com/tv/{name}.png"},	    
+    
+    {"name":"live","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://live.fanmingming.com/tv/{name}.png"},
+    
+    {"name":"ILR","type":0,"url":"http://175.178.251.183:6689/live.m3u","playerType":1},
+    
+    {"name":"XIUTAN","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","type":0,"url":"https://xhdwc.tk/xiutan.m3u"},
     
     {   "name":"范明明•综合",
         "type":0,
@@ -1121,13 +1125,26 @@
         "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
         "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
-    
-    {
-      "name": "YangG",
-      "type": 0,
-      "playerType": 1,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"
-    },
+        
+{
+    "name": "斯卡特",
+    "url": "https://tang.hz.cz/zb/stv?token=72d33aea"
+},
+{
+    "name": "ETH(JS)",
+    "api": "https://tang.hz.cz/js/ethtv.js",
+    "type": 3,
+    "ua": "okhttp/4.12.0"
+},
+   
+   {"name":"SAO0",
+    "type":0,
+    "url":"https://xhdwc.tk/tvlive.txt",
+    "playerType":1,"ua":"okhttp/3.15",
+    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo":"https://epg.112114.xyz/logo/{name}.png"
+   },
+   
 {"name":"LR",
 "type":0,
 "url":"http://175.178.251.183:6689/live.m3u",
@@ -1135,10 +1152,7 @@
 "ua":"okhttp/3.15",
 "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png"
-},
-	    
-{"name":"LR-M3U","type":0,"url":"http://175.178.251.183:6689/live.m3u","playerType":1},	    
-
-{"name":"SAO0","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+}
+   
     ]
 }
