@@ -68,10 +68,6 @@
 
 {"key":"搜狗","name":"搜狗影视(JS)","type":3,"api":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/libs/drpy2.js","ext":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/JS/sougou.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2},	    
 
-  {"key":"饭团影院","name":"饭团影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/XBPQ/fantuan.json","jar":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/JAR/dongchen.jar;md5;CA1DC291AA150BC8AC1628CF7E18A2AE"},
-        
-{"key":"csp_XBPQ_神仙影视","name":"神仙影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/XBPQ/sxys.json","jar":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
-
     {
       "key":"nyys",
       "name":"纽约影视",
