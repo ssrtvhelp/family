@@ -206,7 +206,7 @@
             "name": "🏳️┃素白┃影视",
             "type": 3,
             "api": "csp_SuBaiBai",
-             "jar": "http://like.xn--z7x900a.com/jar/PandaQ240824.jar"
+             "jar": "./PandaQ240824.jar"
         },	    
 
 {
@@ -305,9 +305,6 @@
             "ext": "https://auete.pro/"
         },	  
 
-{"key":"饭团影院","name":"饭团影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/XBPQ/fantuan.json","jar":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/JAR/dongchen.jar;md5;CA1DC291AA150BC8AC1628CF7E18A2AE"},
-{"key":"csp_XBPQ_神仙影视","name":"神仙影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/XBPQ/sxys.json","jar":"https://bitbucket.org/pdwjx001/ziyuan/raw/master/JAR/XBPQ2.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},    
-
 {"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},	    
 
 {"key":"热😇播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},	    
@@ -322,7 +319,7 @@
 	"searchable": 1,
 	"quickSearch": 0,
 	"changeable": 0,
-	"jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/yg.jar",
+	"jar": ".yg.jar",
 	"ext":{
 		"json":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/youtube.json",
 		"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
@@ -354,7 +351,7 @@
             "api": "csp_Hmys",
             "playerType": 1,
             "ext": "https://m.jmzp.net.cn$$$null$$$1",
-          "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/pg1.jar"  
+          "jar": "./pg1.jar"  
         },
 
 {
@@ -419,7 +416,7 @@
             "api": "csp_TTian",
             "playerType": 2,
             "ext": "http://v.rbotv.cn",
-            "jar": "https://already.free.hr/ssrtvhelp/family/main/fix24225.jar"
+            "jar": "./fix24225.jar"
         },
         
 
@@ -442,7 +439,7 @@
       "api": "csp_Yinyuetai",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://already.free.hr/ssrtvhelp/family/main/fangniu.jar"
+      "jar": "./fangniu.jar"
     },	    
 
 {
@@ -456,7 +453,7 @@
       "filterable":1, 
       "timeout":30,
       "ext":"http://127.0.0.1:9978/file/tvfan/token.txt$$$https://www.meijumi.net/$$$null$$$1",
-        "jar": "https://already.free.hr/ssrtvhelp/family/main/pg.jar"
+        "jar": "./pg.jar"
 },         
         
         {
