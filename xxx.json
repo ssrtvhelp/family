@@ -24,15 +24,6 @@
             "changeable": 0,
             "jar":"./hebine.jar" 
         },
-
-{
-			"key": "csp_Xdys",
-			"name": "👬️兄弟┃108P",
-			"type": 3,
-			"api": "csp_Xdys",
-			"playerType": 2,
-			"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/hebine.jar" 
-		},
 	    
         {
             "key": "君君",
