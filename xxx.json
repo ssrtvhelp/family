@@ -1119,16 +1119,16 @@
       "type": 0,
       "playerType": 1,
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "https://live.fanmingming.com/e.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     
     {   "name":"范明明•综合",
         "type":0,
         "url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u",
         "playerType":1,
-        "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-        "logo":"https://epg.112114.xyz/logo/{name}.png"
+        "epg":"https://live.fanmingming.com/e.xml",
+        "logo":"https://live.fanmingming.com/tv/{name}.png"
     },
 
 {"name":"aptv",
@@ -1136,24 +1136,24 @@
 "url":"https://www.stream-link.org/stream-link.m3u",
 "playerType":1,
 "ua":"AptvPlayer/1.3.3",
-"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
+"epg":"https://live.fanmingming.com/e.xml",
+"logo":"https://live.fanmingming.com/tv/{name}.png"
 },	    
 
    {"name":"gather",
     "type":0,
     "url":"https://tv.iill.top/m3u/Gather",
     "playerType":1,"ua":"okhttp/3.15",
-    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-    "logo":"https://epg.112114.xyz/logo/{name}.png"
+    "epg":"https://live.fanmingming.com/e.xml",
+    "logo":"https://live.fanmingming.com/tv/{name}.png"
    },	    
    
    {"name":"SAO0",
     "type":0,
     "url":"https://xhdwc.tk/tvlive.txt",
     "playerType":1,"ua":"okhttp/3.15",
-    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-    "logo":"https://epg.112114.xyz/logo/{name}.png"
+    "epg":"https://live.fanmingming.com/e.xml",
+    "logo":"https://live.fanmingming.com/tv/{name}.png"
    },
    
 {"name":"LR",
@@ -1161,8 +1161,8 @@
 "url":"http://175.178.251.183:6689/live.m3u",
 "playerType":1,
 "ua":"okhttp/3.15",
-"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"
+"epg":"https://live.fanmingming.com/e.xml",
+"logo":"https://live.fanmingming.com/tv/{name}.png"
 }
    
     ]
