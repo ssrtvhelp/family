@@ -1140,8 +1140,6 @@
 "logo":"https://live.fanmingming.com/tv/{name}.png"
 },	
 
-{"name":"内地","url":"https://tang.hz.cz/zb/笑死.txt","ua":"okhttp/4.12.0","epg":"https://live.fanmingming.com/e.xml",
-    "logo":"https://live.fanmingming.com/tv/{name}.png"},	    
 
    {"name":"gather",
     "type":0,
