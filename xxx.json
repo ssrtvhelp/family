@@ -1153,7 +1153,7 @@
 
   {"name":"zbds",
     "type":0,
-    "url":"https://live.zbds.top/tv/iptv6.m3u",
+    "url":"https://tv.iill.top/m3u/Live",
     "playerType":1,"ua":"okhttp/3.15",
     "epg":"https://live.fanmingming.com/e.xml",
     "logo":"https://live.fanmingming.com/tv/{name}.png"
