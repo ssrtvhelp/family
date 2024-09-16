@@ -1151,9 +1151,9 @@
     "logo":"https://live.fanmingming.com/tv/{name}.png"
    },	  
 
-  {"name":"finfy聚",
+  {"name":"zbds",
     "type":0,
-    "url":"https://live.freetv.top/huyayqk.m3u",
+    "url":"https://live.zbds.top/tv/iptv6.m3u",
     "playerType":1,"ua":"okhttp/3.15",
     "epg":"https://live.fanmingming.com/e.xml",
     "logo":"https://live.fanmingming.com/tv/{name}.png"
