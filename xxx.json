@@ -39,7 +39,6 @@
         
         {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
         
-        {"key":"樱花","name":"💥樱花┃多线","type":3,"api":"csp_Yh007","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},	    
 
        {
             "key": "hipy_guazi",
@@ -54,18 +53,6 @@
             "ext": "http://www.mpanso.com/瓜子.js"
         },	    
 	    
-        {
-            "key": "君君",
-            "name": "🚗君君┃1080P",
-            "playerType": 1,
-            "type": 3,
-            "changeable": 0,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://122.228.85.203:1000/api.php/app/"
-        },
         
         {
             "key": "freeok",
@@ -180,7 +167,6 @@
             ]
         },	    
 
- {"key":"火狐","name":"火狐资源(APP)","type":1,"api":"https://www.haohuazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0,"filterable":1,"playerType":2,"categories":["内地剧","韩国剧","动作片","科幻片","战争片","犯罪片","爱情片","喜剧片","欧美剧","香港剧","韩剧","日剧","动画片"]},
         
 {
             "key": "hw5",
@@ -190,16 +176,7 @@
             "searchable": 1,
             "changeable": 1
         },
-        
-        {
-            "key": "hh",
-            "name": "firebox",
-            "type": 1,
-            "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
-            "searchable": 1,
-            "changeable": 1
-        },
-	    
+            
 
        {
             "key": "csp_SuBaiBai",
@@ -497,17 +474,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}
-        },	
-    
-		{
-			"key": "索尼资源",
-			"name": "索尼┃资源",
-			"type": 1,
-			"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-			"categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "斯诺克", "影视解说"],
-			"searchable": 1,
-			"quickSearch": 1
-		},
+        },
     
 
          
