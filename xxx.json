@@ -62,6 +62,35 @@
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "api": "csp_FreeOK",
             "jar":"./hebine.jar" 
+        },
+
+{
+            "key": "csp_zhizhen",
+            "name": "🌹至臻┃盘聚4K",
+            "type": 3,
+            "api": "csp_Duopan",
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "http://mihdr.top",
+                    "http://mpanso.com"
+                ]
+            },
+            "jar":"./hebine.jar"
+        },
+    
+    {
+            "key": "君君",
+            "name": "🚗君君┃1080P",
+            "playerType": 1,
+            "type": 3,
+            "changeable": 0,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://122.228.85.203:1000/api.php/app/"
         },	    
 
        {
