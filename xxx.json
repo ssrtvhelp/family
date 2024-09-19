@@ -93,6 +93,16 @@
             "ext": "http://122.228.85.203:1000/api.php/app/"
         },	    
 
+{
+            "key": "低端%影视",
+            "name": "📞低端┃影视",
+            "type": 3,
+            "api": "https://api.paoyun.eu.org/zq/api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://api.paoyun.eu.org/zq/js/ddys.js"
+        },	    
+
        {
          "key": "酷影",
          "name": "酷影",
