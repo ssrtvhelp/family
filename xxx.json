@@ -13,6 +13,19 @@
             "filterable": 0
         }, 
 
+{
+            "key": "Wexconfig",
+            "name": "🐮配置┃中心🐮",
+            "type": 3,
+            "api": "csp_Wexconfig",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726933431535/wex.txt"
+        },
+        
+        {"key":"Wexemby","name":"emby┃4K🀄️","type":3,"api":"csp_Wexemby","searchable":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726933431535/wex.txt"},	    
+
         {
             "key": "米|搜",
             "name": "🌾米搜┃盘盘4K",
