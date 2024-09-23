@@ -22,6 +22,43 @@
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/fatcat/kk.txt",
             "jar":"./hebine.jar" 
+        },	   
+
+ {
+            "key": "csp_JPYY",
+            "name": "🥇金牌┃1080P",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_Jpyy",
+            "playerType": 1,
+            "filterable": 1,
+            "ext": "",
+            "jar":"./hebine.jar" 
+        },
+        {
+            "key": "csp_subaobai",
+            "name": "✍️白白┃1080P",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_SuBaiBai",
+            "playerType": 1,
+            "filterable": 1,
+            "ext": "",
+            "jar":"./hebine.jar" 
+        },
+        
+        {
+            "key": "csp_Nkdy",
+            "name": "🥛耐看┃1080P",
+            "type": 3,
+            "changeable": 0,
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "api": "csp_Nkdy",
+            "playerType": 2,
+            "filterable": 1,
+            "jar":"./hebine.jar" 
         },	    
 
        {
