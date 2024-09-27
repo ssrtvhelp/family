@@ -51,18 +51,6 @@
             "jar":"./hebine.txt" 
         },
         
-        {
-            "key": "csp_Nkdy",
-            "name": "🥛耐看┃1080P",
-            "type": 3,
-            "changeable": 0,
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "api": "csp_Nkdy",
-            "playerType": 2,
-            "filterable": 1,
-            "jar":"./hebine.txt" 
-        },	    
-
        {
             "key": "GUAZI",
             "name": "🥁瓜子┃1080",
@@ -85,15 +73,6 @@
         {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 	    
         
-        {
-            "key": "freeok",
-            "name": "🦁freeOK┃独家",
-            "type": 3,
-            "changeable": 1,
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "api": "csp_FreeOK",
-            "jar":"./hebine.txt" 
-        },
 
 {
             "key": "csp_zhizhen",
@@ -251,14 +230,6 @@
             "changeable": 1
         },
             
-
-       {
-            "key": "csp_SuBaiBai",
-            "name": "🏳️┃素白┃影视",
-            "type": 3,
-            "api": "csp_SuBaiBai",
-             "jar": "./PandaQ240824.jar"
-        },	    
 
 {
     "key": "T4-欧乐",
