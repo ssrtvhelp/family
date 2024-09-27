@@ -21,7 +21,7 @@
             "api": "csp_MiSou",
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/fatcat/kk.txt",
-            "jar":"./hebine.jar" 
+            "jar":"./hebine.txt" 
         },	   
 
 {"key":"欢视","name":"👓欢视┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
@@ -36,7 +36,7 @@
             "playerType": 1,
             "filterable": 1,
             "ext": "",
-            "jar":"./hebine.jar" 
+            "jar":"./hebine.txt" 
         },
         {
             "key": "csp_subaobai",
@@ -48,7 +48,7 @@
             "playerType": 1,
             "filterable": 1,
             "ext": "",
-            "jar":"./hebine.jar" 
+            "jar":"./hebine.txt" 
         },
         
         {
@@ -60,19 +60,24 @@
             "api": "csp_Nkdy",
             "playerType": 2,
             "filterable": 1,
-            "jar":"./hebine.jar" 
+            "jar":"./hebine.txt" 
         },	    
 
        {
-            "key": "csp_瓜子",
-            "name": "🌰瓜子┃1080P",
-            "api": "csp_Gz360",
+            "key": "GUAZI",
+            "name": "🥁瓜子┃1080",
             "type": 3,
             "searchable": 1,
-            "playerType": 2,
-            "timeout": 30,
-            "changeable": 0,
-            "jar":"./hebine.jar" 
+             "quickSearch": 1, 
+			"api": "./appys.js",
+            "ext": {
+                "host": "http://110.42.37.106:7788/api.php/app/",
+                "*": [
+                    "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=", 
+                    ""
+                ]
+            },
+            "jar":"./hebine.txt" 
         },
 
         {"key":"alllive","name":"📽️一直播┃LIVE","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
@@ -101,7 +106,7 @@
             "changeable": 1,
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "api": "csp_FreeOK",
-            "jar":"./hebine.jar" 
+            "jar":"./hebine.txt" 
         },
 
 {
@@ -117,20 +122,24 @@
                     "http://mpanso.com"
                 ]
             },
-            "jar":"./hebine.jar"
+            "jar":"./hebine.txt"
         },
-    
+
+	    
     {
-            "key": "君君",
-            "name": "🚗君君┃1080P",
-            "playerType": 1,
+            "key": "junjun",
+            "name": "🚗君君┃1080",
             "type": 3,
-            "changeable": 0,
-            "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://122.228.85.203:1000/api.php/app/"
+             "quickSearch": 1, 
+			"api": "http://www.mpanso.com/小米/appys.js",
+            "ext": {
+                "host": "http://122.228.85.203:1000/api.php/app/",
+                "*": [
+                    "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=", 
+                    "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
+                ]
+            }
         },	    
 
 {
