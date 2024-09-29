@@ -708,7 +708,7 @@
 {
             "name": "反弹",
             "type": 1,
-            "url": "http://43.136.176.188:91/api/?key=a36b9dd9ea79547e2ed3c14ec901d9fe&url=",
+            "url": "http://27.25.141.188:6688/api/?key=cc10901237ea968438714d7f0303986b&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -738,7 +738,7 @@
 {
             "name": "10080解析",
             "type": 1,
-            "url": "https://jf.lemiaoyun.cn/api/?key=86950663b3198d25885fdf61501a3366&url=",
+            "url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
             "ext": {
                 "flag": [
                     "qq",
