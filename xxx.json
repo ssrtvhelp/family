@@ -14,8 +14,37 @@
         }, 
 
 {
+            "key": "TgYunPan|服务器",
+            "name": "TgYunPan|服务器",
+            "type": 3,
+            "api": "csp_TgYunPan",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "siteUrl": "http://tgsou.seczh.com/",
+                "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+                "commonConfig": "http://www.fish2018.us.kg/z/peizhi.json"
+            },
+            "jar":"http://www.fish2018.us.kg/z/custom_spider.jar"
+        },
+        
+         {
+            "key": "ConfigCenter",
+            "name": "ZX配置中心TG",
+            "type": 3,
+            "api": "csp_ConfigCenter",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "http://www.fish2018.us.kg/z/peizhi.json"
+            },
+            "jar":"http://www.fish2018.us.kg/z/custom_spider.jar"
+        },	    
+
+{
 	"key": "网盘配置",
-	"name": "网盘及彈幕配置",
+	"name": "PG网盘及彈幕配置",
 	"type": 3,
 	"api": "csp_Config",
 	"searchable": 0,
