@@ -63,7 +63,7 @@
             "api": "csp_MiSou",
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/fatcat/kk.txt",
-            "jar":"./hebine.txt" 
+            "jar":"./hebine.jar" 
         },	   
 
 {"key":"欢视","name":"👓欢视┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
@@ -84,7 +84,7 @@
             "playerType": 1,
             "filterable": 1,
             "ext": "",
-            "jar":"./hebine.txt" 
+            "jar":"./hebine.jar" 
         },
         {
             "key": "csp_subaobai",
@@ -96,7 +96,7 @@
             "playerType": 1,
             "filterable": 1,
             "ext": "",
-            "jar":"./hebine.txt" 
+            "jar":"./hebine.jar" 
         },
         
        {
@@ -104,16 +104,8 @@
             "name": "🥁瓜子┃1080",
             "type": 3,
             "searchable": 1,
-             "quickSearch": 1, 
-			"api": "http://www.mpanso.com/小米/appys.js",
-            "ext": {
-                "host": "http://110.42.37.106:7788/api.php/app/",
-                "*": [
-                    "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=", 
-                    ""
-                ]
-            },
-            "jar":"./hebine.txt" 
+            "quickSearch": 1, 
+            "jar":"./hebine.jar" 
         },
 
         {"key":"alllive","name":"📽️一直播┃LIVE","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},    
@@ -132,7 +124,7 @@
                     "http://mpanso.com"
                 ]
             },
-            "jar":"./hebine.txt"
+            "jar":"./hebine.jar"
         },
 
 	    
