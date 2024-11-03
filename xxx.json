@@ -27,7 +27,38 @@
 		},
 	"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/pg.jar"
 },	    
-
+	    
+{
+            "key": "ConfigCenter",
+            "name": "ZX配置中心",
+            "type": 3,
+            "api": "csp_ConfigCenter",
+            "searchable": 0,
+            "changeable": 0,
+            "jar":"./zx.jar",
+            "ext": {
+                "commonConfig": "./peizhi.json"
+            }
+        },
+        
+        {
+            "key": "Youtube",
+            "name": "Youtube",
+            "type": 3,
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "changeable": 1,
+            "jar":"./zx.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "commonConfig": "./peizhi.json",
+                "json": "./youtube.json",
+                "cookie": ""
+            }
+        },
 
         {
             "key": "米|搜",
