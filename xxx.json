@@ -121,7 +121,7 @@
             "searchable": 1,
             "changeable": 1,
             "api": "csp_SuBaiBai",
-            "playerType": 1,
+            "playerType": 2,
             "filterable": 1,
             "ext": "https://subaibai.com/",
             "jar":"./hebine.jar" 
