@@ -123,7 +123,7 @@
             "api": "csp_SuBaiBai",
             "playerType": 1,
             "filterable": 1,
-            "ext": "",
+            "ext": "https://subaibai.com/",
             "jar":"./hebine.jar" 
         },
         
@@ -159,6 +159,60 @@
             "jar":"./hebine.jar"
         },
 
+{
+      "key": "csp_Netfixtv",
+      "name": "💯至臻┃4K4K",
+      "type": 3,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "https://mihdr.top",
+          "https://xiaomiai.site"
+        ],
+        "url_key": "Duopan",
+        "threadinfo": {
+          "chunksize": 250,
+          "threads": 10
+        }
+      },
+	"jar":"./hebine.jar"
+    },
+	    
+    {
+      "key": "csp_UC",
+      "name": "💌MIUC┃4K4K",
+      "type": 3,
+      "api": "csp_MiUc",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "http://www.mucpan.cc",
+          "http://ucmi.fun",
+          "http://www.ucmi.fun"
+        ],
+        "url_key": "MiUc",
+        "threadinfo": {
+          "chunksize": 450,
+          "threads": 10
+        }
+      },
+	"jar":"./hebine.jar"    
+    },
+	    
+{
+      "key": "csp_XSX",
+      "name": "👀视讯┃1080P",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "api": "csp_Xsx",
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "",
+      "jar":"./hebine.jar"
+    },
 	    
     {
             "key": "junjun",
