@@ -115,16 +115,16 @@
 
 {
 	"key": "csp_饭团",
-	"name": "🍙饭团┃点击",
+	"name": "🍙饭团┃1080P",
 	"type": 3,
 	"searchable": 1,
 	"changeable": 1,
-	"api": "csp_FanTuan",
+	"api": "csp_Fantuan",
 	"playerType": 2,
 	"filterable": 1,
 	"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-	"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/hebine.jar",
-	"ext": "https://fantuan.vip/"
+	"ext": "https://fantuan.vip/",
+	"jar":"https://ghp.ci/raw.githubusercontent.com/ssrtvhelp/family/main/hebine.jar"
 },
 	    
  {
