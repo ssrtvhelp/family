@@ -70,6 +70,31 @@
             "jar":"./hebine.jar" 
         },
 
+{
+	"key": "zhaixing",
+	"name": "✨摘星┃1080P",
+	"type": 3,
+	"api": "csp_AppZX",
+	"playerType": 2,
+	"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/hebine.jar"
+},
+		
+{
+	"key": "csp_zhufan",
+	"name": "🚗追饭┃1080P",
+	"searchable": 1,
+	"quickSearch": 1,
+	"type": 3,
+	"api": "csp_MiTo",
+	"ext": {
+		"url": "http://xiafan.zhuiju666.com",
+		"dataKey": "aassddwwxxllsx1x",
+		"playKey": "bbssqdbbssll25sx",
+		"version": "1.1.0"
+		},
+	"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ssrtvhelp/family/main/hebine.jar"
+},	    
+
 {"key":"UC","name":"🌈优汐┃搜搜","type":3,"api":"csp_UuSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},	    
 
 {"key":"alllive","name":"📽️一直播┃直播","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},	    
