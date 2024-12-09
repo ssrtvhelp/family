@@ -412,15 +412,6 @@
 },        
         	    
 
-       {
-            "key": "追剧兔",
-            "name": "追剧兔┃┃💠V2",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "ext": "https://www.zjtu.one/api.php/app/"
-        },
-
-
       {
             "key": "Lib2",
             "name": "🌟立播┃秒播",
