@@ -1289,14 +1289,6 @@
       "epg": "https://live.fanmingming.com/e.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
-    
-    {   "name":"范明明•综合",
-        "type":0,
-        "url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-        "playerType":1,
-        "epg":"https://live.fanmingming.com/e.xml",
-        "logo":"https://live.fanmingming.com/tv/{name}.png"
-    },
 
 {
             "name": "肥羊国内直播",
@@ -1307,15 +1299,7 @@
             "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },	    
 
-{"name":"aptv",
-"type":0,
-"url":"https://www.stream-link.org/stream-link.m3u",
-"playerType":1,
-"ua":"AptvPlayer/1.3.3",
-"epg":"https://live.fanmingming.com/e.xml",
-"logo":"https://live.fanmingming.com/tv/{name}.png"
-},	
-
+{"name":"牛播一（仅新版影视仓/ok影视）","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.iill.top/logo/{name}.png"},
 
    {"name":"gather",
     "type":0,
