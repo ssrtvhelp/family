@@ -1297,10 +1297,16 @@
             "url": "tv.m3u",
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://gh.xxooo.cf/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5",
             "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-        },	    
+        },
 
-{"name":"牛播一（仅新版影视仓/ok影视）","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.iill.top/logo/{name}.png"},
-
+{   "name":"范明明•综合",
+        "type":0,
+        "url":"https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+        "playerType":1,
+        "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+        "logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+	    
    {"name":"gather",
     "type":0,
     "url":"https://tv.iill.top/m3u/Gather",
