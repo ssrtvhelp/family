@@ -1308,9 +1308,16 @@
     },
 
 {
-	"name": "catvod.com",
+	"name": "IPTV",
 	"type": 0,
 	"url": "https://iptv.catvod.com/tv.m3u",
+	"ua": "okhttp/3.15"
+},	
+
+{
+	"name": "LIVE",
+	"type": 0,
+	"url": "https://live.catvod.com/tv.m3u",
 	"ua": "okhttp/3.15"
 },	    
 	    
