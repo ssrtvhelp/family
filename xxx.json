@@ -1306,6 +1306,13 @@
         "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
         "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
+
+{
+	"name": "catvod.com",
+	"type": 0,
+	"url": "https://iptv.catvod.com/tv.m3u",
+	"ua": "okhttp/3.15"
+},	    
 	    
    {"name":"gather",
     "type":0,
