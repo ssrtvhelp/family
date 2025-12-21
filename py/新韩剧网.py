@@ -19,27 +19,27 @@ class Spider(E):
 	def getName(A):return A.name
 	def init(A,extend='{}'):A.extend=extend
 	def homeContent(E,filter):
-		G={'class':[{'type_id':'1','type_name':'韩剧'},{'type_id':'3','type_name':'韩国电影'},{'type_id':'4','type_name':'韩国综艺'},{'type_id':'hot','type_name':'排行榜'},{'type_id':'new','type_name':'最新更新'}],'filters':{},'list':[],'parse':0,'jx':0}
+		G={'class':[{'type_id':'1','type_name':'韩剧'},{'type_id':'3','type_name':'韩国电影'},{'type_id':'4','type_name':'韩国综艺'},{'type_id':'hot','type_name':'排行榜'},{'type_id':'new','type_name':'最新更新'}],'filters':{'1':[{'key':'year','name':'按年份','value':[{'n':'全部','v':''},{'n':'2025','v':'2025'},{'n':'2024','v':'2024'},{'n':'2023','v':'2023'},{'n':'2022','v':'2022'},{'n':'2021','v':'2021'},{'n':'2020','v':'2020'},{'n':'10后','v':'2010__2019'},{'n':'00后','v':'2000__2009'},{'n':'90后','v':'1990__1999'},{'n':'80后','v':'1980__1989'},{'n':'更早','v':'1900__1980'}]},{'key':'sort','name':'按排序','value':[{'n':'最新','v':'newstime'},{'n':'热门','v':'onclick'}]}],'3':[{'key':'year','name':'按年份','value':[{'n':'全部','v':''},{'n':'2025','v':'2025'},{'n':'2024','v':'2024'},{'n':'2023','v':'2023'},{'n':'2022','v':'2022'},{'n':'2021','v':'2021'},{'n':'2020','v':'2020'},{'n':'10后','v':'2010__2019'},{'n':'00后','v':'2000__2009'},{'n':'90后','v':'1990__1999'},{'n':'80后','v':'1980__1989'},{'n':'更早','v':'1900__1980'}]},{'key':'sort','name':'按排序','value':[{'n':'最新','v':'newstime'},{'n':'热门','v':'onclick'}]}],'4':[{'key':'year','name':'按年份','value':[{'n':'全部','v':''},{'n':'2025','v':'2025'},{'n':'2024','v':'2024'},{'n':'2023','v':'2023'},{'n':'2022','v':'2022'},{'n':'2021','v':'2021'},{'n':'2020','v':'2020'},{'n':'10后','v':'2010__2019'},{'n':'00后','v':'2000__2009'},{'n':'90后','v':'1990__1999'},{'n':'80后','v':'1980__1989'},{'n':'更早','v':'1900__1980'}]},{'key':'sort','name':'按排序','value':[{'n':'最新','v':'newstime'},{'n':'热门','v':'onclick'}]}]},'list':[],'parse':0,'jx':0}
 		try:
 			H=B.get(E.home_url,headers=E.headers);H.encoding='utf-8';I=F(H.text)
 			for A in I('div.list ul li').items():G['list'].append({'vod_id':A('a').attr('href'),'vod_name':A('a').attr('title'),'vod_pic':(lambda u:u if u.startswith(('https','http'))else'https:'+u)(A('a').attr('data-original')),'vod_remarks':A('span.tip').text()})
 		except C as J:D(J)
 		return G
 	def categoryContent(I,cid,page,filter,ext):
-		H=page;G=cid;E={'list':[],'parse':0,'jx':0};H=int(H)
+		H=page;G=cid;E={'list':[],'parse':0,'jx':0};H=int(H);M=ext.get('year','');N=ext.get('sort','')
 		if G in['hot','new']:J=I.home_url+f"/{G}.html"
-		else:J=I.home_url+f"/list/{G}---{H-1}.html"
+		else:J=I.home_url+f"/list/{G}-{M}-{N}-{H-1}.html"
 		try:
 			K=B.get(J,headers=I.headers);K.encoding='utf-8';L=F(K.text)
 			if G in['hot','new']:
 				for A in L('div.txt ul li').items():
-					M=A('a').attr('href')
-					if M is None:continue
+					O=A('a').attr('href')
+					if O is None:continue
 					E['list'].append({'vod_id':A('a').attr('href'),'vod_name':A('a').text(),'vod_pic':'https://youke2.picui.cn/s1/2025/12/21/694796745c0c6.png','vod_remarks':A('#actor').text(),'style':{'type':'list'}})
 				E['pagecount']=1;E['page']=H
 			else:
 				for A in L('div.list ul li').items():E['list'].append({'vod_id':A('a').attr('href'),'vod_name':A('a').attr('title'),'vod_pic':(lambda u:u if u.startswith(('https','http'))else'https:'+u)(A('a').attr('data-original')),'vod_remarks':A('span.tip').text()})
-		except C as N:D(N)
+		except C as P:D(P)
 		return E
 	def detailContent(E,did):
 		G={'list':[],'parse':0,'jx':0};H=did[0]
