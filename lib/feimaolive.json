@@ -1,0 +1,209 @@
+[
+{
+            "name": "线更油管",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/cm851228/my51228888/main/youtube.txt",
+            "ua": "okhttp",
+            "timeout": 30
+      
+        },
+{
+            "name": "线更直播",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/cm851228/my51228888/main/js.txt",
+            "ua": "okhttp",
+            "timeout": 30
+      
+        },
+{
+            "name": "马来直播",
+            "type": 0,
+            "url": "http://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
+            "name": "Smart 1PhP",
+            "type": 0,
+            "url": "http://96.44.160.246:9999/smt.php",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
+            "name": "Smart 2PhP",
+            "type": 0,
+            "url": "http://159.69.45.173:9999/smt.php",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
+            "name": "马新直播",
+            "type": 0,
+            "url": "http://hufa.zabc.net:8080/iptvpro.txt",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
+            "name": "咪咕直播",
+            "type": 0,
+            "url": "http://iptv.catvod.com/tv.m3u",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
+            "name": "CatLive直播",
+            "type": 0,
+            "url": "http://live.catvod.com/tv.m3u",
+            "ua": "catvod.com",
+            "timeout": 30
+     
+        },
+{
+      "name": "冰茶体育TV",
+      "type": 0,
+      "url": "http://bc.188766.xyz/?url=https://live.188766.xyz&mima=bingcha1130",
+      "ua": "bingcha/1.1 (mianfeifenxiang) ",
+      "timeout": 30,
+      "playerType": 1
+    },
+{
+            "name": "BXTV",
+            "type": 0,
+            "url": "http://bxtv.3a.ink/live.m3u",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
+            "name": "风云TV",
+            "type": 0,
+            "url": "http://iptv.4666888.xyz/FYTV.txt",
+            "ua": "okhttp",
+            "timeout": 30
+      
+        },
+{
+            "name": "央视频道",
+            "type": 0,
+            "url": "http://iptv.ruyitv.cc/m3u/tv.txt",
+            "ua": "okhttp",
+            "timeout": 30
+        
+        },
+{
+        "name": "JackTV",
+        "url": "http://php.946985.filegear-sg.me/jackTV.m3u"
+        
+    },
+{
+            "name": "越南频道",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/cm851228/my51228888/main/Vietnam.txt",
+            "ua": "okhttp",
+            "timeout": 30
+       
+        },
+{
+            "name": "全球直播",
+            "type": 0,
+            "url": "http://freetv.fun/test_channels_new.txt",
+            "ua": "okhttp",
+            "timeout": 30
+       
+        },
+{
+            "name": "易发频道",
+            "type": 0,
+            "url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
+            "ua": "okhttp",
+            "timeout": 30
+        
+        },   
+{
+            "name": "猫TV",
+            "type": 0,
+            "url": "http://rihou.cc:555/gggg.nzk",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        },
+{
+            "name": "港台大陆",
+            "type": 0,
+            "url": "http://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道无18内容",
+            "ua": "okhttp",
+            "timeout": 30
+      
+        },
+{
+            "name": "抽风爱米",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/cm851228/my51228888/main/ssmart.txt",
+            "ua": "okhttp",
+            "timeout": 30
+      
+        },
+        
+{
+            "name": "线更新剧",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/cm851228/my51228888/main/livesg.txt",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
+            "name": "线更新加坡剧",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/cm851228/my51228888/main/live.txt",
+            "ua": "okhttp",
+            "timeout": 30
+       
+        },
+{
+            "name": "线更長剧",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/cm851228/my51228888/main/Long%20Drama.txt",
+            "ua": "okhttp",
+            "timeout": 30
+        
+        },
+{
+            "name": "线更剧场",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/cm851228/my51228888/main/gd2.txt",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
+            "name": "线更纪录",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/cm851228/my51228888/main/yiyi.txt",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
+            "name": "线更MV",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/cm851228/my51228888/main/ClassicMV.txt",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
+            "name": "线更音乐",
+            "type": 0,
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/cm851228/my51228888/main/mymusic.txt",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        }
+   
+]
