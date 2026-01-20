@@ -24,12 +24,12 @@
      
         },
 {
-            "name": "Smart 1PhP",
+            "name": "TV123",
             "type": 0,
-            "url": "http://96.44.160.246:9999/smt.php",
-            "ua": "okhttp",
+            "url": "http://tv123.vvvv.ee/tv.m3u",
+            "ua": "okhttp/5.3.2",
             "timeout": 30
-     
+    
         },
 {
             "name": "Smart 2PhP",
@@ -116,14 +116,6 @@
             "timeout": 30
        
         },
-{
-            "name": "易发频道",
-            "type": 0,
-            "url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
-            "ua": "okhttp",
-            "timeout": 30
-        
-        },   
 {
             "name": "猫TV",
             "type": 0,
