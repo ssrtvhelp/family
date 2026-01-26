@@ -261,7 +261,7 @@ class Spider(Spider):
     def playerContent(self, flag, id, vipFlags):
         ids = id.split('@')
         url = f"{self.host}/x/cover/{ids[0]}/{ids[1]}.html"
-        parse_url = f"http://kcjx.zwzs.fun/json.php?url={url}"
+        parse_url = f""
         return {'parse': 1, 'url': parse_url, 'header': ''}
         
     def localProxy(self, param):
